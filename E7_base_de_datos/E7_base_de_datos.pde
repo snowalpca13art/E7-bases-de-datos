@@ -124,7 +124,7 @@ void dibujarResultadosUI() {
   for (int i = 0; i < min(10, resultado.size()); i++) {
     Juego j = resultado.get(i);
 
-    // 🔵 NUEVO: tarjeta visual estilo juego
+    // tarjeta visual estilo juego
     fill(255, 100, 100);
     rect(300, y, 500, 40, 15);
 
