@@ -26,8 +26,13 @@ class Juego {
 Table tabla;
 ArrayList<Juego> listaJuegos = new ArrayList<Juego>();
 
+//variables de interfaz 
+String plataformaUI = "Flash";
+int anioUI = 2013;
+
+
 void setup() {
-  size(800, 600);
+  size(1000, 600);
   
   //Carga de datos
   tabla = loadTable("papa_games_dataset.csv", "header");
@@ -68,11 +73,86 @@ void setup() {
   println("Lista: " + comidas.join(", "));
 }
 
+//interfaz 
 void draw() {
-  background(40);
-  fill(255);
-  text("Arquitectura de Datos lista. Revisa la consola (abajo).", 50, height/2);
+  background(30, 30, 50);
+  dibujarPanel();        
+  dibujarResultadosUI();
 }
+
+void dibujarPanel() {
+  fill(255, 180, 0);
+  rect(0, 0, 250, height, 20);
+
+  fill(0);
+  textSize(18);
+  text("FILTROS", 70, 40);
+  
+ // botón Flash
+  fill(plataformaUI.equals("Flash") ? color(0,200,255) : 255);
+  rect(20, 80, 200, 40, 10);
+  fill(0);
+  text("Flash", 90, 105);
+
+  //botón HTML5
+  fill(plataformaUI.equals("HTML5") ? color(0,200,255) : 255);
+  rect(20, 140, 200, 40, 10);
+  fill(0);
+  text("HTML5", 85, 165);
+
+  // selector de año
+  fill(0);
+  text("Año: " + anioUI, 20, 240);
+
+  fill(255);
+  rect(20, 260, 200, 35, 10);
+  fill(0);
+  text("Cambiar Año", 50, 285);
+  
+}
+//visualización de resultados en pantalla
+void dibujarResultadosUI() {
+  ArrayList<Juego> resultado = filtrarPorPlataforma(plataformaUI);
+  resultado = filtrarPorAnio(anioUI);
+
+  fill(255);
+  textSize(16);
+  text("Resultados: " + resultado.size(), 300, 40);
+
+  int y = 80;
+
+  for (int i = 0; i < min(10, resultado.size()); i++) {
+    Juego j = resultado.get(i);
+
+    // 🔵 NUEVO: tarjeta visual estilo juego
+    fill(255, 100, 100);
+    rect(300, y, 500, 40, 15);
+
+    fill(0);
+    text(j.nombre + " (" + j.anio + ")", 310, y + 25);
+
+    y += 60;
+  }
+}
+
+//interacción con mouse (botones)
+public void mousePressed() {
+  if (mouseX > 20 && mouseX < 220 && mouseY > 80 && mouseY < 120) {
+    plataformaUI = "Flash";
+  }
+
+  if (mouseX > 20 && mouseX < 220 && mouseY > 140 && mouseY < 180) {
+    plataformaUI = "HTML5";
+  }
+
+  if (mouseX > 20 && mouseX < 220 && mouseY > 260 && mouseY < 295) {
+    anioUI++;
+    if (anioUI > 2015) {
+      anioUI = 2010;
+    }
+  }
+}
+
 
 // FUNCIONES DE FILTRADO
 
