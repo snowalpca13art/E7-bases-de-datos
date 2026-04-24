@@ -1,0 +1,1001 @@
+Game_Name,Release_Year,Food_Type,Platform,Mobile_Version,Difficulty_Rating,Popularity_Score,Total_Customers,Ingredients_Count,Stations,Holidays,Customer_Name,Customer_Difficulty,Order_Complexity
+Papa's Burgeria,2010,Burgers,HTML5,No,8,71,72,32,5,10,Joy,4,6
+Papa's Pastaria,2013,Pasta,Flash,Yes,10,97,76,44,4,8,Yuko,3,8
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,7,88,119,37,5,11,Trishna,7,9
+Papa's Sushiria,2016,Sushi,HTML5,Yes,9,98,49,60,4,7,Willow,1,8
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,3,80,66,22,3,12,Olivia,10,7
+Papa's Bakeria,2016,Pie,Flash,Yes,5,91,58,50,4,12,Scarlett,10,3
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,6,72,87,47,4,5,Cooper,10,9
+Papa's Donuteria,2014,Donuts,HTML5,Yes,7,59,62,41,4,11,Radlynn,1,1
+Papa's Donuteria,2014,Donuts,Flash,Yes,5,62,67,35,4,10,Peggy,1,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,7,75,91,52,6,6,Chuck,1,3
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,9,95,106,23,5,10,Willow,1,4
+Papa's Taco Mia,2011,Tacos,HTML5,No,4,97,114,39,6,5,Chuck,3,5
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,5,66,42,33,5,7,Carlo,9,8
+Papa's Mocharia,2019,Coffee,Flash,Yes,3,89,78,16,6,10,Peggy,8,8
+Papa's Pancakeria,2012,Pancakes,Flash,No,4,97,41,44,3,9,Carlo,1,9
+Papa's Wingeria,2012,Chicken Wings,Flash,No,3,56,48,26,6,12,Carlo,7,5
+Papa's Freezeria,2011,Ice Cream,HTML5,No,10,66,116,23,5,11,Connor,4,2
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,7,54,51,46,6,6,Xolo,9,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,6,66,53,24,6,7,Alberto,9,4
+Papa's Donuteria,2014,Donuts,Flash,Yes,4,54,118,58,4,6,Trishna,10,3
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,10,77,43,26,5,11,Marty,7,3
+Papa's Pizzeria,2007,Pizza,HTML5,No,4,74,67,59,4,11,Connor,9,6
+Papa's Paleteria,2023,Ice Pops,Flash,No,8,76,40,18,5,5,Marty,1,9
+Papa's Donuteria,2014,Donuts,HTML5,No,8,89,60,48,6,9,Connor,10,2
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,8,87,89,50,3,8,Scarlett,5,4
+Papa's Taco Mia,2011,Tacos,HTML5,No,3,66,44,25,4,10,Connor,6,4
+Papa's Freezeria,2011,Ice Cream,Flash,No,3,96,75,16,6,9,Yuko,5,4
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,3,72,70,41,5,8,Hank,7,3
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,7,100,71,54,6,6,Rita,3,5
+Papa's Wingeria,2012,Chicken Wings,Flash,No,7,85,90,37,4,11,Skyler,3,5
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,10,84,66,37,3,6,Carlo,8,4
+Papa's Pastaria,2013,Pasta,Flash,No,3,53,84,39,4,11,Carlo,6,4
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,8,94,113,60,5,10,Marty,4,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,10,82,54,53,6,6,Greg,1,6
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,3,62,53,43,3,7,Joy,8,10
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,10,79,111,19,5,10,Joy,5,4
+Papa's Taco Mia,2011,Tacos,HTML5,No,5,79,104,58,4,5,Penny,9,4
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,5,88,64,36,5,7,Marty,10,3
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,8,79,103,52,6,11,Akari,2,3
+Papa's Sushiria,2016,Sushi,Flash,No,3,74,58,33,3,11,Sasha,6,5
+Papa's Pancakeria,2012,Pancakes,Flash,No,7,58,116,53,5,12,Penny,3,6
+Papa's Pastaria,2013,Pasta,Flash,Yes,10,52,56,43,4,9,Skyler,8,3
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,8,54,82,17,6,5,Rita,10,1
+Papa's Donuteria,2014,Donuts,HTML5,No,9,68,115,39,4,8,Rita,6,1
+Papa's Freezeria,2011,Ice Cream,Flash,No,5,88,96,26,4,11,Alberto,7,8
+Papa's Bakeria,2016,Pie,Flash,No,5,77,41,39,6,7,Greg,7,9
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,7,91,78,54,5,9,Radlynn,10,10
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,8,53,46,15,3,11,Olivia,1,5
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,7,62,76,57,3,10,Scarlett,8,6
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,3,64,89,33,6,10,Joy,2,8
+Papa's Bakeria,2016,Pie,HTML5,Yes,9,100,62,58,6,10,James,4,10
+Papa's Taco Mia,2011,Tacos,Flash,Yes,5,90,90,41,5,11,Greg,1,5
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,5,81,45,34,4,5,Joy,2,5
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,9,82,79,20,3,10,Xolo,3,10
+Papa's Taco Mia,2011,Tacos,Flash,No,7,53,120,59,6,7,Taylor,3,10
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,7,87,65,20,4,6,Cooper,4,7
+Papa's Pizzeria,2007,Pizza,Flash,Yes,10,72,71,44,3,6,Hank,10,5
+Papa's Burgeria,2010,Burgers,HTML5,Yes,9,73,80,45,5,9,Rita,10,4
+Papa's Donuteria,2014,Donuts,HTML5,No,8,55,57,47,6,11,Rita,4,8
+Papa's Taco Mia,2011,Tacos,Flash,Yes,4,96,79,49,5,8,Scarlett,7,9
+Papa's Sushiria,2016,Sushi,HTML5,No,5,93,60,50,3,6,Roy,8,6
+Papa's Paleteria,2023,Ice Pops,Flash,No,9,81,85,29,4,5,Radlynn,4,7
+Papa's Paleteria,2023,Ice Pops,Flash,No,8,93,45,45,5,6,Skyler,1,1
+Papa's Sushiria,2016,Sushi,Flash,Yes,4,61,47,41,6,12,Nevada,9,3
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,4,67,83,45,3,10,Chuck,2,2
+Papa's Taco Mia,2011,Tacos,Flash,No,9,73,58,42,4,7,Scarlett,3,3
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,3,51,111,42,3,10,Chuck,5,9
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,8,60,89,24,3,10,Chuck,6,7
+Papa's Sushiria,2016,Sushi,Flash,No,3,62,85,17,3,12,Scarlett,3,1
+Papa's Paleteria,2023,Ice Pops,Flash,No,8,84,61,49,4,11,Skyler,1,5
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,10,74,103,32,4,5,Trishna,5,4
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,3,91,83,44,5,5,Marty,3,1
+Papa's Burgeria,2010,Burgers,HTML5,Yes,8,62,61,46,5,5,Willow,3,9
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,8,96,82,57,3,5,Connor,3,1
+Papa's Mocharia,2019,Coffee,Flash,Yes,8,99,48,26,4,6,Peggy,8,6
+Papa's Donuteria,2014,Donuts,Flash,Yes,10,55,50,31,3,8,Scarlett,9,5
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,6,84,45,47,3,12,James,6,10
+Papa's Mocharia,2019,Coffee,HTML5,No,8,73,73,21,4,8,Penny,4,8
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,7,52,75,33,4,6,Radlynn,2,9
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,7,85,95,44,3,7,Connor,2,3
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,9,52,99,17,4,7,Penny,10,4
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,4,100,114,58,3,7,Scarlett,10,1
+Papa's Pizzeria,2007,Pizza,HTML5,No,10,66,118,25,3,8,Chuck,7,10
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,10,57,93,60,3,11,Alberto,8,6
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,6,89,94,31,5,9,James,7,5
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,8,66,93,35,6,8,Nevada,5,10
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,8,81,66,27,5,11,Trishna,2,2
+Papa's Mocharia,2019,Coffee,Flash,Yes,7,83,63,33,5,8,Marty,1,6
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,3,95,76,21,3,5,Alberto,1,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,9,85,105,60,4,11,Scarlett,10,4
+Papa's Pizzeria,2007,Pizza,HTML5,No,4,83,66,35,3,6,Joy,8,9
+Papa's Pancakeria,2012,Pancakes,Flash,No,8,52,84,49,3,6,Xolo,5,4
+Papa's Bakeria,2016,Pie,Flash,No,7,95,82,56,3,10,Roy,6,8
+Papa's Freezeria,2011,Ice Cream,Flash,No,9,76,82,38,4,11,Roy,10,5
+Papa's Taco Mia,2011,Tacos,Flash,Yes,4,56,106,25,5,10,Sasha,4,1
+Papa's Pastaria,2013,Pasta,HTML5,No,4,75,113,31,4,5,Alberto,6,2
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,8,63,87,15,4,7,Scarlett,1,2
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,9,58,69,26,4,5,Austin,6,9
+Papa's Taco Mia,2011,Tacos,HTML5,No,7,61,90,39,4,8,Skyler,9,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,8,93,59,56,6,12,Taylor,8,7
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,5,98,74,50,6,10,Marty,9,6
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,6,86,76,60,4,8,Nick,7,9
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,7,96,118,26,6,5,Akari,9,7
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,10,59,62,26,4,6,Joy,9,10
+Papa's Mocharia,2019,Coffee,Flash,No,10,50,88,45,5,7,Hank,4,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,4,90,84,24,3,11,Joy,4,4
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,9,79,97,60,3,9,Alberto,5,5
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,8,58,46,50,4,11,Trishna,6,1
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,5,92,106,17,6,8,Prudence,6,5
+Papa's Pizzeria,2007,Pizza,Flash,Yes,8,92,69,37,4,12,Nevada,5,7
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,4,83,75,28,5,8,Roy,7,10
+Papa's Bakeria,2016,Pie,Flash,Yes,3,72,61,39,3,10,Rita,6,5
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,3,51,82,45,3,7,Xolo,6,1
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,8,98,98,28,4,12,Joy,5,4
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,5,54,92,28,3,12,Yuko,9,6
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,8,71,104,51,3,5,Scarlett,6,10
+Papa's Taco Mia,2011,Tacos,Flash,No,6,100,51,35,5,9,Nevada,1,8
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,6,51,109,31,6,9,Olivia,4,4
+Papa's Pizzeria,2007,Pizza,Flash,Yes,5,58,60,48,3,10,Penny,5,7
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,9,99,57,47,4,9,Trishna,6,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,3,65,60,47,4,6,Greg,4,4
+Papa's Burgeria,2010,Burgers,Flash,No,5,99,117,33,5,7,Roy,6,4
+Papa's Paleteria,2023,Ice Pops,HTML5,No,3,94,80,29,4,11,Jojo,7,10
+Papa's Mocharia,2019,Coffee,Flash,Yes,5,95,70,49,6,5,Austin,3,2
+Papa's Donuteria,2014,Donuts,Flash,Yes,5,76,54,29,6,7,Roy,7,10
+Papa's Freezeria,2011,Ice Cream,HTML5,No,9,64,43,27,6,6,Taylor,2,4
+Papa's Mocharia,2019,Coffee,Flash,No,8,53,104,43,6,6,Trishna,8,4
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,4,52,53,21,6,5,Akari,4,4
+Papa's Freezeria,2011,Ice Cream,HTML5,No,9,58,105,24,4,8,Penny,1,4
+Papa's Freezeria,2011,Ice Cream,Flash,No,8,71,114,24,5,10,Jojo,8,3
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,9,82,71,23,3,9,Trishna,4,5
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,5,100,120,27,6,9,Akari,6,9
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,8,61,57,54,5,5,Alberto,7,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,10,96,84,32,6,6,Akari,6,7
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,7,58,59,28,4,5,Peggy,3,7
+Papa's Pancakeria,2012,Pancakes,Flash,No,9,50,116,48,4,10,Penny,1,1
+Papa's Pizzeria,2007,Pizza,Flash,No,5,87,56,19,5,5,Taylor,2,6
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,3,100,59,43,6,10,Xolo,10,3
+Papa's Bakeria,2016,Pie,HTML5,Yes,10,74,60,27,4,6,Carlo,4,10
+Papa's Burgeria,2010,Burgers,HTML5,Yes,7,57,88,44,5,12,Alberto,5,7
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,4,77,115,38,6,8,Trishna,9,2
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,4,88,111,15,4,12,Akari,3,10
+Papa's Mocharia,2019,Coffee,HTML5,No,4,57,83,16,5,12,Rita,3,9
+Papa's Pizzeria,2007,Pizza,HTML5,No,7,78,114,31,3,6,Connor,9,2
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,8,63,82,43,4,12,Austin,2,9
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,10,81,118,44,6,6,Nevada,10,1
+Papa's Taco Mia,2011,Tacos,Flash,Yes,9,66,87,27,3,5,Peggy,7,1
+Papa's Mocharia,2019,Coffee,HTML5,No,8,53,85,38,3,5,Rita,5,2
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,7,76,100,32,5,11,Chuck,7,6
+Papa's Pastaria,2013,Pasta,Flash,Yes,4,52,75,39,5,8,Rita,3,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,8,51,111,53,6,8,Penny,5,6
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,3,71,111,55,4,8,Rita,4,3
+Papa's Pastaria,2013,Pasta,Flash,Yes,10,87,81,45,6,7,Penny,9,10
+Papa's Donuteria,2014,Donuts,HTML5,Yes,5,61,54,44,5,10,Joy,10,10
+Papa's Burgeria,2010,Burgers,Flash,No,10,71,72,57,6,10,Radlynn,4,3
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,8,66,77,46,4,7,Sasha,3,5
+Papa's Donuteria,2014,Donuts,Flash,Yes,8,51,97,58,6,11,Joy,2,1
+Papa's Paleteria,2023,Ice Pops,HTML5,No,8,80,68,58,3,9,Olivia,2,8
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,10,90,105,24,6,8,Rita,7,10
+Papa's Burgeria,2010,Burgers,Flash,Yes,6,67,67,35,4,6,Alberto,3,4
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,54,66,32,5,12,Hank,7,3
+Papa's Pastaria,2013,Pasta,Flash,No,7,78,97,38,5,10,Radlynn,2,4
+Papa's Freezeria,2011,Ice Cream,HTML5,No,10,83,69,31,5,9,Austin,7,5
+Papa's Pastaria,2013,Pasta,HTML5,No,4,56,95,53,5,11,Olivia,6,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,10,57,113,31,5,8,Penny,10,10
+Papa's Mocharia,2019,Coffee,Flash,No,3,60,104,56,4,8,James,2,8
+Papa's Pizzeria,2007,Pizza,HTML5,No,8,77,107,53,4,7,Yuko,7,6
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,3,70,104,26,3,5,Radlynn,1,9
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,5,86,108,20,4,6,Radlynn,7,5
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,4,86,72,58,4,11,Alberto,10,10
+Papa's Wingeria,2012,Chicken Wings,Flash,No,9,82,88,50,3,7,Trishna,9,7
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,4,77,79,26,3,8,Penny,10,2
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,4,59,87,58,6,6,Peggy,2,2
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,10,74,94,60,6,12,Connor,5,8
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,5,51,69,45,4,10,Greg,8,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,6,96,60,28,6,8,Austin,8,2
+Papa's Burgeria,2010,Burgers,HTML5,Yes,5,85,103,36,4,5,Joy,7,4
+Papa's Donuteria,2014,Donuts,HTML5,No,10,99,84,18,4,10,Roy,4,4
+Papa's Mocharia,2019,Coffee,Flash,No,6,89,73,15,6,8,Joy,6,10
+Papa's Burgeria,2010,Burgers,HTML5,Yes,4,96,68,50,4,10,Skyler,7,4
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,9,68,50,22,5,10,Connor,7,7
+Papa's Donuteria,2014,Donuts,HTML5,No,5,98,93,52,3,6,Prudence,7,2
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,6,52,64,59,6,6,Penny,2,6
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,7,65,67,49,6,9,Olivia,10,1
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,7,83,78,27,3,8,James,10,6
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,91,57,28,5,11,Willow,9,10
+Papa's Donuteria,2014,Donuts,HTML5,No,5,68,55,36,6,6,Olivia,2,8
+Papa's Pizzeria,2007,Pizza,HTML5,No,8,94,88,28,5,10,Carlo,2,5
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,9,71,72,47,4,7,Penny,5,7
+Papa's Pizzeria,2007,Pizza,HTML5,No,8,70,102,59,4,9,Greg,10,5
+Papa's Bakeria,2016,Pie,Flash,No,4,80,120,59,6,5,Radlynn,9,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,3,53,91,27,6,10,Chuck,7,5
+Papa's Burgeria,2010,Burgers,Flash,No,8,64,83,52,5,8,James,1,2
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,10,86,80,41,3,11,Greg,8,1
+Papa's Donuteria,2014,Donuts,HTML5,Yes,7,54,67,54,3,10,Taylor,5,2
+Papa's Wingeria,2012,Chicken Wings,Flash,No,8,97,102,30,6,8,Taylor,3,10
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,5,70,41,17,5,5,Chuck,5,10
+Papa's Pancakeria,2012,Pancakes,Flash,No,5,65,107,48,5,7,Hank,1,1
+Papa's Paleteria,2023,Ice Pops,HTML5,No,10,50,80,43,5,9,Alberto,1,1
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,6,63,118,19,5,6,Marty,2,1
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,8,77,100,58,6,10,Skyler,1,10
+Papa's Burgeria,2010,Burgers,HTML5,Yes,7,98,54,21,6,9,Joy,3,2
+Papa's Mocharia,2019,Coffee,HTML5,No,3,69,67,55,4,8,Nevada,5,2
+Papa's Donuteria,2014,Donuts,Flash,Yes,9,82,81,37,4,7,Prudence,6,9
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,9,74,81,30,6,11,Austin,8,2
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,8,57,41,55,3,11,Cooper,10,7
+Papa's Sushiria,2016,Sushi,Flash,Yes,5,70,45,15,4,7,Trishna,2,5
+Papa's Bakeria,2016,Pie,HTML5,No,10,73,88,19,4,6,Prudence,3,8
+Papa's Pizzeria,2007,Pizza,Flash,No,3,53,49,29,6,7,Taylor,2,4
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,10,51,110,45,5,10,Hank,9,4
+Papa's Mocharia,2019,Coffee,HTML5,No,7,93,44,52,3,12,Peggy,8,8
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,4,59,60,40,5,11,Joy,10,2
+Papa's Bakeria,2016,Pie,HTML5,Yes,7,86,61,42,3,5,Skyler,4,8
+Papa's Sushiria,2016,Sushi,HTML5,Yes,7,78,67,46,6,8,James,8,1
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,9,59,80,23,5,6,Chuck,9,9
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,7,68,108,52,4,11,Hank,4,1
+Papa's Mocharia,2019,Coffee,Flash,No,8,51,99,36,6,12,James,9,4
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,4,76,99,55,6,5,Scarlett,5,7
+Papa's Bakeria,2016,Pie,Flash,No,3,92,74,39,3,8,James,8,7
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,7,71,59,60,3,9,Xolo,6,4
+Papa's Burgeria,2010,Burgers,Flash,No,3,64,53,33,4,10,Sasha,9,6
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,8,61,117,33,3,7,Chuck,7,7
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,5,91,84,23,3,10,Alberto,8,5
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,9,78,95,32,4,6,Trishna,8,5
+Papa's Taco Mia,2011,Tacos,Flash,Yes,5,75,94,43,4,12,Trishna,10,9
+Papa's Pastaria,2013,Pasta,Flash,Yes,3,73,40,16,6,7,James,8,7
+Papa's Pizzeria,2007,Pizza,HTML5,No,6,62,59,15,6,8,Austin,4,8
+Papa's Donuteria,2014,Donuts,HTML5,Yes,8,90,109,52,4,10,Rita,10,5
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,4,62,76,50,4,9,Trishna,1,10
+Papa's Donuteria,2014,Donuts,Flash,No,6,84,58,24,4,7,Carlo,4,4
+Papa's Donuteria,2014,Donuts,HTML5,Yes,10,99,107,32,6,12,Penny,7,2
+Papa's Burgeria,2010,Burgers,HTML5,No,5,83,83,34,3,7,Scarlett,5,5
+Papa's Paleteria,2023,Ice Pops,HTML5,No,10,62,117,39,5,11,Cooper,7,10
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,5,50,96,44,3,11,Radlynn,9,5
+Papa's Pastaria,2013,Pasta,Flash,No,8,53,48,57,5,10,Connor,1,5
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,7,96,48,31,3,7,Rita,1,3
+Papa's Pizzeria,2007,Pizza,Flash,No,9,82,88,21,5,9,Olivia,5,3
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,6,72,70,43,6,7,Cooper,9,7
+Papa's Donuteria,2014,Donuts,HTML5,No,10,64,103,42,3,11,Connor,5,7
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,4,84,112,36,6,7,Cooper,9,1
+Papa's Pizzeria,2007,Pizza,Flash,Yes,4,53,81,47,4,5,Carlo,7,3
+Papa's Pizzeria,2007,Pizza,Flash,Yes,3,77,106,32,6,8,Austin,10,6
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,6,97,82,29,4,5,Connor,9,2
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,4,96,65,18,3,5,Sasha,5,2
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,7,99,48,50,4,12,Scarlett,3,1
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,8,88,71,18,5,5,Prudence,1,9
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,10,53,104,47,4,10,Taylor,8,5
+Papa's Bakeria,2016,Pie,Flash,Yes,7,73,115,30,3,11,Connor,10,5
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,5,58,85,50,5,7,Penny,2,8
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,4,72,106,23,6,5,Scarlett,2,6
+Papa's Taco Mia,2011,Tacos,Flash,Yes,10,78,49,45,4,9,Austin,10,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,5,79,95,15,4,10,Skyler,5,5
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,10,60,106,43,5,7,Jojo,3,1
+Papa's Donuteria,2014,Donuts,Flash,Yes,9,82,80,27,5,11,Xolo,7,6
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,3,92,45,18,6,5,Xolo,8,8
+Papa's Taco Mia,2011,Tacos,Flash,Yes,5,68,73,21,6,11,Rita,4,5
+Papa's Paleteria,2023,Ice Pops,Flash,No,4,100,95,49,3,5,Nevada,2,5
+Papa's Pizzeria,2007,Pizza,Flash,Yes,4,84,92,21,4,9,Connor,2,8
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,6,84,118,41,6,5,Sasha,8,4
+Papa's Freezeria,2011,Ice Cream,Flash,No,7,51,41,34,4,7,Connor,1,8
+Papa's Donuteria,2014,Donuts,HTML5,No,3,89,48,21,4,8,Austin,8,5
+Papa's Paleteria,2023,Ice Pops,HTML5,No,9,96,60,22,6,5,Connor,6,8
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,7,62,76,46,5,7,Prudence,10,5
+Papa's Donuteria,2014,Donuts,HTML5,No,9,54,45,33,6,5,Scarlett,10,2
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,4,51,65,30,4,7,Austin,7,6
+Papa's Taco Mia,2011,Tacos,HTML5,No,5,57,110,16,4,11,Sasha,1,4
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,9,93,116,44,3,8,Greg,1,10
+Papa's Pizzeria,2007,Pizza,Flash,No,6,81,66,39,3,7,Cooper,8,2
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,10,98,49,49,5,7,Penny,5,1
+Papa's Bakeria,2016,Pie,HTML5,No,8,53,70,57,3,11,Rita,5,1
+Papa's Taco Mia,2011,Tacos,Flash,Yes,10,100,117,47,5,5,Radlynn,2,6
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,8,84,74,45,6,7,Trishna,6,6
+Papa's Taco Mia,2011,Tacos,Flash,No,4,65,99,20,5,12,Marty,7,9
+Papa's Donuteria,2014,Donuts,Flash,No,7,70,85,51,6,11,Marty,10,1
+Papa's Taco Mia,2011,Tacos,Flash,No,9,97,46,35,4,7,Cooper,7,7
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,5,59,111,34,4,9,Jojo,10,7
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,8,87,44,45,6,5,Hank,4,6
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,9,52,81,53,4,8,Nevada,7,2
+Papa's Freezeria,2011,Ice Cream,Flash,No,10,83,112,50,6,9,Akari,5,9
+Papa's Mocharia,2019,Coffee,Flash,No,3,57,44,46,4,9,Scarlett,8,3
+Papa's Burgeria,2010,Burgers,HTML5,Yes,5,68,61,49,4,5,Radlynn,7,7
+Papa's Burgeria,2010,Burgers,HTML5,Yes,4,51,72,29,3,6,Rita,1,9
+Papa's Burgeria,2010,Burgers,HTML5,Yes,7,57,100,17,6,11,Hank,3,2
+Papa's Pizzeria,2007,Pizza,Flash,Yes,5,99,99,37,5,7,James,8,6
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,8,73,77,35,5,9,Sasha,8,5
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,4,70,51,38,6,10,Chuck,1,4
+Papa's Burgeria,2010,Burgers,HTML5,Yes,4,84,116,39,6,8,Taylor,2,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,4,89,102,45,6,10,Prudence,3,4
+Papa's Sushiria,2016,Sushi,Flash,Yes,4,85,60,43,4,8,James,1,3
+Papa's Burgeria,2010,Burgers,HTML5,No,10,99,46,39,4,7,Skyler,3,3
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,8,69,90,22,5,10,Penny,6,1
+Papa's Taco Mia,2011,Tacos,Flash,Yes,4,73,87,50,3,5,Olivia,1,10
+Papa's Sushiria,2016,Sushi,Flash,Yes,9,82,115,53,4,11,Roy,4,3
+Papa's Freezeria,2011,Ice Cream,HTML5,No,6,69,86,24,3,12,Akari,1,1
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,9,50,53,34,4,7,Greg,1,4
+Papa's Pastaria,2013,Pasta,HTML5,No,9,76,105,44,5,11,Hank,7,9
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,10,65,82,24,5,10,Roy,1,4
+Papa's Mocharia,2019,Coffee,Flash,No,3,80,54,51,3,9,Connor,6,4
+Papa's Pancakeria,2012,Pancakes,Flash,No,5,99,116,28,6,6,Austin,10,6
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,6,51,53,33,3,11,Roy,3,4
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,8,50,91,44,3,9,Roy,10,2
+Papa's Mocharia,2019,Coffee,Flash,No,10,51,84,58,6,7,Alberto,8,2
+Papa's Wingeria,2012,Chicken Wings,Flash,No,8,87,81,58,4,12,James,4,5
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,6,79,99,34,4,10,Austin,4,5
+Papa's Sushiria,2016,Sushi,Flash,Yes,6,95,63,23,3,8,Olivia,8,2
+Papa's Burgeria,2010,Burgers,Flash,No,7,69,99,49,5,7,Willow,9,5
+Papa's Donuteria,2014,Donuts,Flash,No,8,51,61,49,3,8,Skyler,10,6
+Papa's Pizzeria,2007,Pizza,Flash,No,5,88,108,50,4,10,Marty,3,10
+Papa's Pancakeria,2012,Pancakes,HTML5,No,9,97,53,43,3,7,Xolo,10,7
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,5,70,101,59,4,9,Nick,8,8
+Papa's Mocharia,2019,Coffee,HTML5,Yes,8,81,41,35,4,8,Xolo,3,4
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,6,67,68,48,3,7,Austin,4,4
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,7,71,44,32,5,6,Greg,9,6
+Papa's Bakeria,2016,Pie,Flash,No,7,71,118,26,4,10,Greg,1,8
+Papa's Bakeria,2016,Pie,HTML5,Yes,6,52,44,50,5,10,Trishna,3,4
+Papa's Taco Mia,2011,Tacos,HTML5,No,4,73,68,22,6,10,Jojo,10,10
+Papa's Pastaria,2013,Pasta,HTML5,No,9,86,71,37,4,12,Marty,4,8
+Papa's Mocharia,2019,Coffee,Flash,Yes,3,72,47,21,5,12,Sasha,9,8
+Papa's Bakeria,2016,Pie,HTML5,No,10,76,98,34,5,6,Olivia,4,7
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,7,58,50,53,3,11,Carlo,1,4
+Papa's Wingeria,2012,Chicken Wings,Flash,No,5,75,95,54,5,6,Yuko,9,9
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,10,64,118,59,5,12,Rita,4,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,5,99,115,58,4,7,Penny,1,6
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,8,95,105,34,6,9,Scarlett,6,4
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,8,63,85,46,4,11,Taylor,3,8
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,8,88,69,52,3,11,Greg,3,10
+Papa's Wingeria,2012,Chicken Wings,Flash,No,7,99,95,23,3,8,Alberto,10,4
+Papa's Sushiria,2016,Sushi,HTML5,Yes,5,84,116,45,6,10,Nevada,6,10
+Papa's Bakeria,2016,Pie,HTML5,Yes,5,80,101,49,4,5,Roy,3,8
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,8,52,51,36,3,5,Scarlett,5,8
+Papa's Burgeria,2010,Burgers,HTML5,Yes,8,90,102,41,4,7,Carlo,9,6
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,10,80,89,45,5,12,Austin,4,1
+Papa's Wingeria,2012,Chicken Wings,Flash,No,6,78,84,15,4,12,Penny,7,6
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,5,55,116,24,5,5,Connor,9,7
+Papa's Wingeria,2012,Chicken Wings,Flash,No,10,53,78,43,6,6,Greg,2,7
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,10,83,89,26,6,12,Alberto,7,1
+Papa's Pastaria,2013,Pasta,HTML5,No,10,73,110,17,6,5,Yuko,8,4
+Papa's Pancakeria,2012,Pancakes,Flash,No,4,79,67,21,6,6,Austin,4,9
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,3,51,70,45,6,9,Joy,3,9
+Papa's Donuteria,2014,Donuts,HTML5,Yes,4,57,95,33,3,8,Cooper,9,5
+Papa's Donuteria,2014,Donuts,HTML5,No,4,64,113,57,5,5,Willow,3,6
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,7,83,105,50,4,12,Radlynn,6,6
+Papa's Bakeria,2016,Pie,HTML5,Yes,7,77,50,29,6,5,Radlynn,7,3
+Papa's Pancakeria,2012,Pancakes,HTML5,No,6,95,68,17,3,6,Trishna,2,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,8,86,120,24,3,9,Alberto,10,6
+Papa's Mocharia,2019,Coffee,HTML5,Yes,7,62,46,55,4,10,Yuko,6,9
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,4,97,51,19,5,12,Cooper,9,4
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,8,92,60,16,5,5,Yuko,7,9
+Papa's Burgeria,2010,Burgers,Flash,Yes,10,84,75,43,4,8,Nevada,4,10
+Papa's Donuteria,2014,Donuts,HTML5,No,6,95,78,57,4,10,Olivia,6,2
+Papa's Taco Mia,2011,Tacos,HTML5,No,9,71,80,18,4,9,Nevada,2,1
+Papa's Mocharia,2019,Coffee,HTML5,No,10,51,60,56,4,8,Taylor,8,9
+Papa's Taco Mia,2011,Tacos,Flash,No,8,87,88,54,6,11,Scarlett,7,8
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,5,72,50,25,6,9,Penny,10,4
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,4,51,75,48,5,6,Trishna,3,9
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,8,57,113,52,3,9,Marty,10,10
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,4,92,114,44,6,11,Taylor,9,7
+Papa's Pizzeria,2007,Pizza,Flash,Yes,4,84,113,20,3,12,Roy,7,4
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,10,95,102,60,6,9,Yuko,1,6
+Papa's Sushiria,2016,Sushi,Flash,No,10,94,90,36,6,6,Prudence,6,1
+Papa's Freezeria,2011,Ice Cream,Flash,No,6,74,55,49,3,11,Greg,3,3
+Papa's Paleteria,2023,Ice Pops,Flash,No,3,56,90,49,3,5,Connor,8,4
+Papa's Freezeria,2011,Ice Cream,Flash,No,8,100,57,35,4,9,Skyler,10,10
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,10,66,54,49,4,5,Yuko,7,6
+Papa's Mocharia,2019,Coffee,HTML5,No,9,75,93,55,6,8,Cooper,9,10
+Papa's Mocharia,2019,Coffee,Flash,Yes,9,62,95,37,6,6,Trishna,5,10
+Papa's Mocharia,2019,Coffee,HTML5,Yes,4,94,45,28,4,12,Penny,3,5
+Papa's Donuteria,2014,Donuts,HTML5,No,10,50,115,15,4,12,Joy,1,10
+Papa's Paleteria,2023,Ice Pops,Flash,No,7,95,82,15,6,6,Prudence,4,8
+Papa's Pastaria,2013,Pasta,HTML5,Yes,9,68,82,31,4,10,Penny,4,7
+Papa's Mocharia,2019,Coffee,Flash,Yes,10,70,73,30,5,9,Greg,3,10
+Papa's Pancakeria,2012,Pancakes,Flash,No,9,97,111,18,5,11,Akari,5,6
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,3,52,72,33,3,10,Taylor,5,10
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,5,78,65,48,4,10,Chuck,3,5
+Papa's Bakeria,2016,Pie,Flash,No,5,89,61,43,5,12,Scarlett,6,4
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,10,82,59,38,5,10,Trishna,5,3
+Papa's Mocharia,2019,Coffee,Flash,Yes,10,72,73,47,6,7,Hank,8,2
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,10,58,74,30,5,12,Yuko,3,5
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,6,98,64,31,3,8,Akari,4,6
+Papa's Paleteria,2023,Ice Pops,Flash,No,7,57,67,28,3,7,Joy,9,7
+Papa's Sushiria,2016,Sushi,HTML5,Yes,4,52,95,58,6,6,Nick,7,9
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,10,88,118,19,6,12,Willow,7,8
+Papa's Donuteria,2014,Donuts,Flash,No,9,53,103,31,5,10,Sasha,10,4
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,10,84,54,48,4,11,Jojo,6,6
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,7,70,107,24,5,8,Sasha,2,10
+Papa's Bakeria,2016,Pie,Flash,No,4,84,41,32,5,11,Peggy,8,9
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,7,77,42,54,5,8,Yuko,10,10
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,9,76,81,31,6,6,Nick,6,1
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,7,97,45,28,5,10,Nevada,4,6
+Papa's Sushiria,2016,Sushi,Flash,Yes,3,91,103,19,3,10,James,10,8
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,3,80,67,38,3,9,Xolo,6,3
+Papa's Sushiria,2016,Sushi,HTML5,No,5,98,72,20,5,8,Skyler,7,9
+Papa's Mocharia,2019,Coffee,Flash,Yes,5,50,72,35,3,9,Skyler,3,1
+Papa's Pancakeria,2012,Pancakes,Flash,No,4,81,74,57,6,11,Jojo,6,7
+Papa's Pizzeria,2007,Pizza,HTML5,No,3,75,61,35,3,5,Marty,1,2
+Papa's Bakeria,2016,Pie,Flash,No,5,82,113,53,5,10,Radlynn,5,9
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,5,67,92,24,5,11,James,3,2
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,9,59,91,35,5,7,Peggy,7,7
+Papa's Donuteria,2014,Donuts,HTML5,Yes,6,83,52,17,5,12,Prudence,3,5
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,3,67,116,48,4,11,Carlo,7,8
+Papa's Mocharia,2019,Coffee,HTML5,Yes,10,60,74,25,6,7,Carlo,3,2
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,9,99,54,26,5,6,Sasha,2,2
+Papa's Taco Mia,2011,Tacos,HTML5,No,5,65,44,32,6,9,Radlynn,7,10
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,6,58,95,35,4,8,Chuck,2,5
+Papa's Pastaria,2013,Pasta,Flash,Yes,7,67,74,51,3,7,Jojo,8,4
+Papa's Pastaria,2013,Pasta,HTML5,No,4,94,51,55,4,5,Skyler,3,5
+Papa's Mocharia,2019,Coffee,Flash,No,5,86,103,15,5,7,Scarlett,3,1
+Papa's Pastaria,2013,Pasta,Flash,No,5,60,104,46,5,10,Nevada,5,1
+Papa's Freezeria,2011,Ice Cream,Flash,No,9,87,90,16,6,11,James,6,2
+Papa's Paleteria,2023,Ice Pops,HTML5,No,9,76,116,22,4,12,Greg,8,1
+Papa's Sushiria,2016,Sushi,Flash,Yes,8,92,76,58,5,7,Radlynn,3,1
+Papa's Pastaria,2013,Pasta,Flash,Yes,8,94,61,16,6,11,Rita,5,3
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,8,55,68,41,5,12,Connor,2,9
+Papa's Burgeria,2010,Burgers,HTML5,Yes,3,95,96,48,5,8,Austin,4,7
+Papa's Freezeria,2011,Ice Cream,Flash,No,9,66,75,52,5,10,Xolo,8,8
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,8,82,98,36,4,11,Nick,2,8
+Papa's Sushiria,2016,Sushi,Flash,No,3,56,112,47,6,11,Roy,2,6
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,6,61,40,34,6,7,Alberto,3,4
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,10,51,76,41,3,5,Nevada,1,7
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,5,78,110,25,6,12,Radlynn,4,9
+Papa's Bakeria,2016,Pie,Flash,No,9,59,119,60,3,5,Hank,8,4
+Papa's Burgeria,2010,Burgers,Flash,No,9,66,68,44,6,12,Xolo,7,5
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,3,58,54,15,4,11,Willow,8,8
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,6,82,116,51,5,11,Olivia,2,8
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,5,95,109,44,4,5,Penny,2,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,4,95,58,39,4,8,Hank,8,8
+Papa's Bakeria,2016,Pie,Flash,No,5,93,87,37,6,5,Peggy,9,5
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,62,76,24,5,11,Joy,5,10
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,8,99,84,42,3,9,Hank,2,10
+Papa's Pancakeria,2012,Pancakes,Flash,No,6,87,43,31,4,7,Greg,6,4
+Papa's Taco Mia,2011,Tacos,Flash,Yes,4,52,42,46,5,8,Nevada,9,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,10,73,111,54,3,12,Cooper,5,10
+Papa's Burgeria,2010,Burgers,Flash,Yes,10,96,112,15,3,9,Rita,8,4
+Papa's Paleteria,2023,Ice Pops,HTML5,No,10,51,118,37,3,10,Marty,2,4
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,3,76,73,15,3,11,Skyler,10,10
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,8,89,48,28,3,5,Xolo,2,9
+Papa's Bakeria,2016,Pie,Flash,No,9,74,44,38,3,6,Sasha,2,7
+Papa's Donuteria,2014,Donuts,Flash,No,4,79,84,23,6,12,Greg,7,7
+Papa's Bakeria,2016,Pie,Flash,No,10,100,91,56,4,8,Trishna,10,10
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,3,95,57,19,5,5,Willow,9,9
+Papa's Taco Mia,2011,Tacos,Flash,No,9,93,72,37,5,8,Nevada,1,4
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,8,88,82,39,4,12,Connor,5,3
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,10,96,78,24,3,9,Cooper,4,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,4,60,67,29,4,11,Nevada,6,10
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,8,51,117,26,3,9,Radlynn,3,2
+Papa's Taco Mia,2011,Tacos,HTML5,No,10,71,62,27,4,12,Marty,9,9
+Papa's Donuteria,2014,Donuts,HTML5,No,7,100,56,29,4,12,Taylor,10,9
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,5,81,95,31,3,12,Marty,9,10
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,5,51,61,19,3,7,Penny,4,7
+Papa's Bakeria,2016,Pie,Flash,No,7,74,63,19,3,7,Akari,5,1
+Papa's Pastaria,2013,Pasta,HTML5,Yes,6,87,65,42,5,6,Rita,9,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,10,88,79,33,3,5,Sasha,4,10
+Papa's Sushiria,2016,Sushi,HTML5,Yes,8,71,67,33,6,10,Taylor,10,9
+Papa's Donuteria,2014,Donuts,Flash,Yes,4,73,55,42,3,9,Scarlett,8,9
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,5,92,49,47,3,7,Connor,6,2
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,9,64,98,15,3,5,Chuck,3,3
+Papa's Sushiria,2016,Sushi,HTML5,Yes,9,67,79,36,5,11,James,9,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,7,92,62,15,3,7,Jojo,10,7
+Papa's Pizzeria,2007,Pizza,Flash,Yes,10,66,99,49,3,5,Penny,9,8
+Papa's Mocharia,2019,Coffee,Flash,No,4,81,91,46,4,8,Olivia,5,1
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,6,84,102,54,4,12,Marty,1,6
+Papa's Freezeria,2011,Ice Cream,Flash,No,3,98,97,32,6,12,Nevada,3,7
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,9,74,117,33,4,8,Cooper,10,3
+Papa's Wingeria,2012,Chicken Wings,Flash,No,3,63,106,51,4,9,Prudence,7,6
+Papa's Taco Mia,2011,Tacos,Flash,No,10,60,42,16,3,10,Scarlett,4,7
+Papa's Donuteria,2014,Donuts,HTML5,No,10,98,118,50,5,11,Austin,7,3
+Papa's Taco Mia,2011,Tacos,HTML5,No,8,87,87,55,4,5,James,6,8
+Papa's Pastaria,2013,Pasta,HTML5,No,9,51,90,40,3,8,Alberto,4,7
+Papa's Donuteria,2014,Donuts,HTML5,No,6,94,118,60,3,8,Radlynn,5,2
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,3,92,64,33,3,11,Yuko,7,4
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,10,100,101,28,6,12,Greg,3,8
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,5,88,79,49,6,10,Carlo,4,8
+Papa's Pancakeria,2012,Pancakes,Flash,No,5,88,65,32,4,9,Yuko,9,7
+Papa's Sushiria,2016,Sushi,HTML5,No,9,99,78,50,4,5,Hank,1,8
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,10,62,110,27,5,8,Cooper,9,10
+Papa's Pastaria,2013,Pasta,HTML5,Yes,7,63,60,50,5,10,Peggy,3,5
+Papa's Bakeria,2016,Pie,HTML5,Yes,8,50,68,57,5,8,Willow,9,10
+Papa's Taco Mia,2011,Tacos,HTML5,No,3,86,97,49,6,10,Connor,4,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,10,57,89,34,5,10,Sasha,5,10
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,9,93,112,45,6,12,Xolo,9,9
+Papa's Pancakeria,2012,Pancakes,Flash,No,5,90,70,55,4,11,Nevada,2,3
+Papa's Paleteria,2023,Ice Pops,HTML5,No,9,63,72,15,4,11,Radlynn,2,6
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,3,63,111,27,5,10,Hank,8,7
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,6,97,50,23,5,6,Willow,10,2
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,3,50,99,54,5,6,Rita,5,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,6,59,55,33,4,12,Penny,2,1
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,3,85,114,19,5,8,Rita,1,3
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,7,54,110,33,6,12,James,8,8
+Papa's Mocharia,2019,Coffee,Flash,No,10,58,61,34,4,11,Jojo,8,1
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,6,84,50,33,3,6,Jojo,5,6
+Papa's Mocharia,2019,Coffee,Flash,No,3,78,98,26,6,10,Sasha,9,2
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,3,95,51,44,5,8,Nevada,10,8
+Papa's Pancakeria,2012,Pancakes,HTML5,No,8,64,85,28,5,7,Trishna,9,2
+Papa's Paleteria,2023,Ice Pops,Flash,No,8,78,84,45,6,9,Trishna,10,9
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,7,91,85,57,5,6,Hank,1,4
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,3,100,44,50,3,9,Roy,8,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,6,94,55,21,4,11,Nick,7,8
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,4,77,42,24,5,7,Connor,8,5
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,10,81,59,25,3,10,Rita,10,7
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,5,71,115,18,4,11,Rita,10,5
+Papa's Pancakeria,2012,Pancakes,Flash,No,6,51,49,21,6,5,Xolo,5,4
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,5,58,85,32,4,5,Yuko,4,7
+Papa's Pizzeria,2007,Pizza,HTML5,No,5,91,96,19,6,7,Chuck,6,5
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,6,81,102,33,3,11,Penny,6,3
+Papa's Sushiria,2016,Sushi,Flash,Yes,7,95,105,45,3,11,Alberto,8,5
+Papa's Bakeria,2016,Pie,Flash,No,7,66,109,25,5,11,Scarlett,4,3
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,9,63,104,34,4,10,Rita,1,1
+Papa's Bakeria,2016,Pie,Flash,Yes,6,89,77,15,5,12,Carlo,3,9
+Papa's Bakeria,2016,Pie,Flash,Yes,7,98,68,53,6,12,Joy,4,7
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,6,92,67,25,6,7,Hank,5,7
+Papa's Pizzeria,2007,Pizza,HTML5,No,3,50,58,42,4,9,Olivia,3,4
+Papa's Bakeria,2016,Pie,Flash,Yes,7,99,42,56,3,11,Scarlett,10,8
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,4,61,49,20,3,10,Akari,8,10
+Papa's Pastaria,2013,Pasta,Flash,Yes,5,96,112,43,4,12,Prudence,3,2
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,7,91,53,60,3,10,Nick,3,4
+Papa's Paleteria,2023,Ice Pops,Flash,No,3,95,40,31,5,7,Jojo,1,4
+Papa's Pastaria,2013,Pasta,Flash,No,9,87,118,45,4,12,Austin,6,1
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,8,55,67,22,4,5,Skyler,1,8
+Papa's Taco Mia,2011,Tacos,Flash,Yes,7,96,101,33,6,7,Taylor,8,3
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,10,84,43,51,4,12,Taylor,5,1
+Papa's Paleteria,2023,Ice Pops,HTML5,No,9,97,111,24,4,5,Penny,10,4
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,7,68,59,28,5,8,Xolo,9,9
+Papa's Wingeria,2012,Chicken Wings,Flash,No,7,90,64,21,5,6,Nevada,10,1
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,70,49,32,4,7,Cooper,7,10
+Papa's Sushiria,2016,Sushi,HTML5,Yes,7,50,71,54,3,9,Radlynn,4,1
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,9,78,71,34,4,10,Hank,1,6
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,4,98,95,54,3,9,Alberto,9,4
+Papa's Taco Mia,2011,Tacos,Flash,Yes,7,95,114,39,3,8,Akari,4,2
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,8,88,54,44,4,5,Scarlett,7,7
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,60,93,52,6,5,Willow,6,5
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,3,82,106,20,3,7,Connor,8,3
+Papa's Bakeria,2016,Pie,Flash,No,4,98,83,60,5,8,Trishna,9,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,3,71,113,29,6,11,James,1,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,9,73,97,54,5,11,Penny,2,2
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,8,75,76,50,6,12,Jojo,10,2
+Papa's Pizzeria,2007,Pizza,Flash,No,3,50,81,41,4,5,Prudence,7,5
+Papa's Donuteria,2014,Donuts,HTML5,No,10,61,92,42,6,8,Austin,6,2
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,9,70,110,31,6,5,Hank,6,1
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,9,76,44,40,4,9,Roy,6,7
+Papa's Freezeria,2011,Ice Cream,Flash,No,9,76,46,32,6,8,Xolo,7,8
+Papa's Pastaria,2013,Pasta,Flash,Yes,8,55,49,20,3,8,Carlo,8,8
+Papa's Sushiria,2016,Sushi,HTML5,Yes,10,91,76,24,5,7,Hank,6,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,9,67,107,17,5,7,Peggy,9,3
+Papa's Donuteria,2014,Donuts,HTML5,Yes,7,67,96,33,6,12,Roy,8,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,4,62,64,27,5,10,Jojo,10,4
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,7,61,40,34,3,10,Chuck,1,8
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,4,97,69,31,5,7,James,6,1
+Papa's Pastaria,2013,Pasta,HTML5,No,10,60,59,38,6,6,Roy,1,1
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,10,62,51,20,3,5,Radlynn,6,7
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,5,95,97,26,3,11,Scarlett,7,2
+Papa's Burgeria,2010,Burgers,Flash,No,7,50,40,27,6,11,Hank,8,3
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,6,88,116,16,6,8,Trishna,9,9
+Papa's Pizzeria,2007,Pizza,HTML5,No,5,68,80,21,3,9,Jojo,5,1
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,4,60,97,60,4,11,Nick,8,6
+Papa's Pastaria,2013,Pasta,Flash,Yes,7,97,48,17,4,9,Prudence,1,10
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,7,70,87,19,5,6,Carlo,1,2
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,8,82,77,24,6,5,Jojo,10,1
+Papa's Donuteria,2014,Donuts,Flash,Yes,3,54,99,18,5,8,Joy,1,10
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,8,67,74,48,3,8,Willow,9,5
+Papa's Paleteria,2023,Ice Pops,Flash,No,4,57,45,23,3,7,Connor,6,3
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,10,63,98,44,5,10,Carlo,10,4
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,6,92,79,48,6,10,Scarlett,10,2
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,3,95,86,60,3,5,Penny,3,5
+Papa's Pancakeria,2012,Pancakes,HTML5,No,3,84,49,41,5,11,Trishna,1,1
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,5,55,102,54,6,12,Nevada,6,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,4,59,66,51,5,11,Trishna,6,8
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,8,79,56,58,6,5,Chuck,5,2
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,4,80,51,19,6,7,Skyler,7,8
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,3,85,68,57,3,6,Scarlett,1,7
+Papa's Bakeria,2016,Pie,HTML5,Yes,7,53,44,27,5,12,Chuck,2,5
+Papa's Pancakeria,2012,Pancakes,HTML5,No,9,97,52,37,5,6,Nick,5,7
+Papa's Freezeria,2011,Ice Cream,Flash,No,8,64,66,57,6,12,Joy,4,10
+Papa's Pancakeria,2012,Pancakes,Flash,No,4,95,74,50,5,10,Sasha,4,9
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,4,83,88,34,4,8,Skyler,2,3
+Papa's Pancakeria,2012,Pancakes,Flash,No,9,90,77,21,6,10,Olivia,7,7
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,3,87,90,29,5,6,Yuko,7,6
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,6,61,54,32,6,12,Penny,6,3
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,6,84,78,57,4,8,Rita,1,7
+Papa's Donuteria,2014,Donuts,HTML5,Yes,5,96,111,16,5,6,Sasha,5,8
+Papa's Taco Mia,2011,Tacos,HTML5,No,5,94,99,43,5,5,Radlynn,8,6
+Papa's Burgeria,2010,Burgers,Flash,No,7,95,43,34,4,10,Penny,4,7
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,3,73,51,43,5,10,Olivia,10,1
+Papa's Donuteria,2014,Donuts,Flash,Yes,5,54,100,51,6,10,Radlynn,10,7
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,4,98,50,44,6,12,Roy,9,2
+Papa's Freezeria,2011,Ice Cream,HTML5,No,4,81,111,53,5,5,Greg,2,7
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,4,82,84,50,4,10,James,7,4
+Papa's Bakeria,2016,Pie,HTML5,Yes,5,89,103,52,4,10,Chuck,1,3
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,9,99,87,17,6,5,Olivia,4,2
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,8,81,99,27,6,10,Taylor,7,5
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,4,96,74,49,5,9,Nevada,1,3
+Papa's Sushiria,2016,Sushi,HTML5,Yes,9,86,56,44,5,9,Sasha,4,7
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,6,51,62,55,4,6,Nick,8,5
+Papa's Donuteria,2014,Donuts,HTML5,Yes,8,56,80,55,5,11,Prudence,2,7
+Papa's Donuteria,2014,Donuts,HTML5,Yes,6,58,68,59,3,5,Willow,4,4
+Papa's Taco Mia,2011,Tacos,HTML5,No,8,56,67,51,5,5,Cooper,8,9
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,8,52,91,50,4,11,Carlo,6,10
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,5,90,77,36,6,5,Chuck,3,4
+Papa's Burgeria,2010,Burgers,HTML5,No,5,77,69,24,6,12,Peggy,4,4
+Papa's Taco Mia,2011,Tacos,Flash,No,4,94,90,53,6,7,Peggy,10,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,8,52,94,28,5,8,Yuko,9,2
+Papa's Pancakeria,2012,Pancakes,Flash,No,4,84,83,19,5,9,Connor,4,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,3,97,99,25,6,10,Connor,6,8
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,3,50,60,53,4,9,Peggy,2,6
+Papa's Bakeria,2016,Pie,Flash,No,8,84,116,29,4,5,Sasha,5,6
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,4,72,55,48,6,9,Greg,6,2
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,6,73,115,27,3,7,Cooper,5,10
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,10,78,71,58,6,10,James,3,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,4,77,119,18,4,9,Joy,9,5
+Papa's Burgeria,2010,Burgers,HTML5,Yes,5,90,98,57,4,8,Prudence,10,10
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,6,93,91,34,6,9,Willow,9,5
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,8,89,75,24,5,10,Prudence,4,5
+Papa's Donuteria,2014,Donuts,Flash,No,7,89,50,50,4,7,Connor,2,6
+Papa's Burgeria,2010,Burgers,HTML5,Yes,9,55,94,24,6,12,Skyler,9,3
+Papa's Taco Mia,2011,Tacos,HTML5,No,9,79,61,36,6,12,Penny,6,7
+Papa's Taco Mia,2011,Tacos,HTML5,No,7,72,115,32,6,8,Yuko,7,9
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,10,92,81,25,5,8,Alberto,2,8
+Papa's Bakeria,2016,Pie,Flash,Yes,3,89,110,37,4,11,Rita,7,6
+Papa's Mocharia,2019,Coffee,HTML5,Yes,8,88,58,46,4,10,Cooper,9,8
+Papa's Pizzeria,2007,Pizza,Flash,No,10,83,96,25,5,7,Xolo,10,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,10,58,67,32,6,8,Connor,7,9
+Papa's Mocharia,2019,Coffee,Flash,Yes,10,67,66,17,4,7,Joy,8,10
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,3,87,92,54,5,5,Peggy,8,4
+Papa's Burgeria,2010,Burgers,Flash,No,3,88,77,25,6,12,Sasha,10,1
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,5,94,117,25,4,11,Trishna,6,5
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,5,67,111,28,4,7,Xolo,5,1
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,5,80,101,44,5,6,Sasha,3,9
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,7,87,98,60,3,6,Alberto,10,10
+Papa's Pizzeria,2007,Pizza,Flash,Yes,4,78,52,49,6,10,James,3,4
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,9,77,55,45,4,5,Olivia,10,9
+Papa's Mocharia,2019,Coffee,Flash,Yes,7,73,105,35,4,5,Penny,4,1
+Papa's Pizzeria,2007,Pizza,Flash,Yes,6,86,75,55,5,10,Willow,2,1
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,10,92,86,20,5,7,Skyler,9,9
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,3,64,83,18,5,8,Willow,9,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,6,59,113,52,4,8,Greg,5,4
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,6,80,99,53,6,8,Greg,6,2
+Papa's Burgeria,2010,Burgers,Flash,No,8,67,45,29,5,6,Xolo,5,1
+Papa's Pastaria,2013,Pasta,Flash,Yes,10,82,114,48,6,8,Trishna,7,9
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,8,95,105,36,5,6,Roy,5,6
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,4,60,97,42,3,5,Austin,9,8
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,3,86,65,56,6,6,Radlynn,1,3
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,7,55,99,42,3,7,Scarlett,6,4
+Papa's Burgeria,2010,Burgers,HTML5,No,5,58,89,57,6,5,Trishna,2,10
+Papa's Bakeria,2016,Pie,HTML5,No,6,82,42,40,6,12,Prudence,4,2
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,5,57,89,44,5,6,Joy,4,6
+Papa's Donuteria,2014,Donuts,Flash,No,10,76,106,34,6,9,Austin,8,7
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,10,73,41,22,5,8,Xolo,6,9
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,10,66,51,49,4,7,Roy,9,6
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,4,99,42,50,5,6,Jojo,7,5
+Papa's Mocharia,2019,Coffee,Flash,No,6,80,50,36,3,10,Taylor,2,9
+Papa's Pizzeria,2007,Pizza,Flash,Yes,5,64,41,51,3,10,Scarlett,1,9
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,8,83,56,38,3,7,Carlo,8,7
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,3,90,92,18,6,12,Greg,1,5
+Papa's Donuteria,2014,Donuts,HTML5,No,7,80,79,42,3,11,Chuck,6,5
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,8,52,50,51,4,5,Joy,3,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,4,97,88,40,5,6,Akari,2,1
+Papa's Pastaria,2013,Pasta,HTML5,Yes,3,62,57,26,5,8,Connor,7,10
+Papa's Donuteria,2014,Donuts,Flash,Yes,10,75,87,15,4,11,Alberto,2,10
+Papa's Donuteria,2014,Donuts,HTML5,No,4,84,78,25,6,9,Peggy,2,4
+Papa's Bakeria,2016,Pie,Flash,Yes,3,61,51,41,4,11,Rita,5,6
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,8,90,96,30,4,6,Skyler,5,5
+Papa's Pizzeria,2007,Pizza,HTML5,No,3,94,89,30,3,6,Prudence,10,8
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,3,99,87,40,6,7,Jojo,2,5
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,4,70,55,33,3,6,Connor,9,2
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,7,64,65,45,6,11,Austin,8,3
+Papa's Mocharia,2019,Coffee,HTML5,No,4,72,85,16,5,12,Peggy,3,6
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,4,53,73,22,4,8,Roy,9,1
+Papa's Bakeria,2016,Pie,HTML5,Yes,5,62,45,27,3,5,Olivia,1,7
+Papa's Paleteria,2023,Ice Pops,Flash,No,9,98,50,43,5,12,Chuck,4,8
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,8,93,81,39,6,12,Yuko,4,10
+Papa's Pastaria,2013,Pasta,HTML5,No,5,62,42,25,5,6,Trishna,1,2
+Papa's Burgeria,2010,Burgers,HTML5,Yes,9,98,67,49,4,8,Cooper,7,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,4,81,94,54,3,7,Penny,8,1
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,4,93,44,32,4,10,Nick,10,4
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,8,52,69,15,4,12,Prudence,8,4
+Papa's Mocharia,2019,Coffee,HTML5,No,7,92,75,27,3,6,Xolo,3,6
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,7,99,115,19,5,11,Carlo,3,7
+Papa's Burgeria,2010,Burgers,HTML5,Yes,8,91,78,53,6,11,Greg,4,4
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,3,95,101,41,3,11,Radlynn,9,8
+Papa's Pastaria,2013,Pasta,Flash,Yes,4,92,108,40,3,10,Radlynn,6,8
+Papa's Pastaria,2013,Pasta,HTML5,Yes,6,95,103,53,3,10,Willow,1,5
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,8,80,111,54,5,7,Chuck,1,6
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,7,80,82,20,4,8,Carlo,10,6
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,8,76,108,43,5,11,Skyler,5,5
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,3,92,116,31,4,12,Jojo,1,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,9,82,50,56,4,12,Nevada,10,3
+Papa's Mocharia,2019,Coffee,Flash,No,9,51,47,51,4,8,Xolo,4,4
+Papa's Burgeria,2010,Burgers,HTML5,No,10,51,113,37,5,10,Carlo,4,10
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,3,87,78,25,4,9,Sasha,10,10
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,3,75,60,51,6,12,Chuck,7,6
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,5,97,78,17,4,8,Cooper,6,10
+Papa's Burgeria,2010,Burgers,HTML5,Yes,6,95,83,47,4,12,Taylor,7,7
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,4,63,86,30,6,8,Carlo,6,10
+Papa's Donuteria,2014,Donuts,HTML5,Yes,6,72,116,15,3,9,James,7,2
+Papa's Pancakeria,2012,Pancakes,Flash,No,3,51,88,31,5,12,Connor,3,10
+Papa's Freezeria,2011,Ice Cream,Flash,No,10,68,85,27,5,5,James,1,5
+Papa's Mocharia,2019,Coffee,HTML5,Yes,5,56,107,28,3,9,Nick,10,1
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,3,99,73,22,6,8,Chuck,5,10
+Papa's Burgeria,2010,Burgers,Flash,Yes,3,53,78,48,4,6,Carlo,5,3
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,7,72,110,26,6,11,Joy,8,4
+Papa's Pastaria,2013,Pasta,Flash,No,3,81,81,59,6,8,Alberto,8,1
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,8,74,58,38,6,5,Trishna,4,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,6,85,97,37,3,11,Joy,3,1
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,5,66,105,48,5,6,Greg,6,5
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,9,73,65,59,6,6,Penny,4,10
+Papa's Burgeria,2010,Burgers,HTML5,No,8,67,54,41,3,9,Penny,2,5
+Papa's Freezeria,2011,Ice Cream,HTML5,No,7,94,70,50,4,9,Yuko,9,4
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,7,91,62,54,3,6,Jojo,3,5
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,9,58,91,35,4,11,Hank,7,8
+Papa's Pizzeria,2007,Pizza,Flash,Yes,9,52,40,15,3,12,Chuck,8,6
+Papa's Burgeria,2010,Burgers,HTML5,No,7,50,85,31,5,6,Willow,8,6
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,5,85,49,18,3,5,Yuko,3,5
+Papa's Burgeria,2010,Burgers,HTML5,Yes,7,61,114,27,4,5,Peggy,3,9
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,8,65,43,41,6,8,Penny,7,7
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,10,63,62,50,3,9,Joy,6,2
+Papa's Pizzeria,2007,Pizza,Flash,Yes,8,60,48,55,5,8,Roy,8,10
+Papa's Pastaria,2013,Pasta,HTML5,No,8,86,63,40,6,6,Greg,1,8
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,71,54,32,3,11,Taylor,9,8
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,4,52,65,52,5,7,Connor,6,1
+Papa's Mocharia,2019,Coffee,Flash,No,4,61,66,29,5,7,Joy,10,1
+Papa's Taco Mia,2011,Tacos,Flash,Yes,7,92,98,19,6,12,Hank,3,1
+Papa's Sushiria,2016,Sushi,HTML5,No,8,63,47,48,5,9,Carlo,3,8
+Papa's Taco Mia,2011,Tacos,Flash,No,7,71,86,41,4,9,Jojo,6,2
+Papa's Pastaria,2013,Pasta,HTML5,Yes,3,63,75,19,5,10,Alberto,5,2
+Papa's Pastaria,2013,Pasta,HTML5,No,6,65,92,22,5,6,Rita,1,4
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,10,68,60,42,6,8,Sasha,2,1
+Papa's Pastaria,2013,Pasta,Flash,No,4,83,54,45,4,5,Chuck,4,10
+Papa's Mocharia,2019,Coffee,Flash,Yes,6,72,63,27,5,12,Taylor,9,10
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,10,53,100,39,5,11,Taylor,6,2
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,4,59,111,59,3,5,Willow,9,6
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,6,66,72,56,5,11,Cooper,6,1
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,7,64,55,50,4,8,Greg,1,3
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,4,61,52,20,4,12,Jojo,8,8
+Papa's Pancakeria,2012,Pancakes,Flash,No,5,77,79,19,5,7,Cooper,5,7
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,8,85,45,29,4,5,Prudence,5,9
+Papa's Mocharia,2019,Coffee,Flash,No,5,97,62,44,4,12,Alberto,5,8
+Papa's Paleteria,2023,Ice Pops,Flash,No,6,91,62,23,5,6,Jojo,2,4
+Papa's Paleteria,2023,Ice Pops,Flash,No,9,56,117,32,4,8,Skyler,10,7
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,3,85,91,18,3,8,Taylor,8,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,5,77,112,53,3,11,Rita,5,8
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,4,60,59,47,5,11,Greg,5,10
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,10,90,107,44,3,12,Jojo,9,8
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,6,66,119,22,6,9,Rita,7,5
+Papa's Taco Mia,2011,Tacos,HTML5,No,9,92,86,52,6,5,Greg,7,4
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,3,83,59,52,3,9,Xolo,7,10
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,7,70,99,16,6,5,Yuko,6,7
+Papa's Sushiria,2016,Sushi,Flash,Yes,8,62,81,47,6,11,Penny,2,4
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,6,91,98,25,3,5,Austin,10,2
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,9,50,67,20,3,9,Jojo,4,4
+Papa's Mocharia,2019,Coffee,HTML5,No,4,56,116,50,4,6,Cooper,9,6
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,6,51,93,40,3,11,Willow,3,3
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,10,96,50,50,5,12,Joy,10,3
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,No,7,86,48,25,4,8,Connor,10,9
+Papa's Donuteria,2014,Donuts,Flash,Yes,10,96,47,24,6,8,Xolo,6,6
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,10,92,51,43,3,10,Penny,4,5
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,5,100,115,47,6,9,Alberto,10,4
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,5,65,58,34,6,5,Austin,6,5
+Papa's Pizzeria,2007,Pizza,Flash,No,9,69,71,31,5,6,Rita,4,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,4,75,79,21,4,5,Peggy,9,4
+Papa's Pastaria,2013,Pasta,Flash,Yes,6,78,93,60,6,9,Nevada,6,5
+Papa's Mocharia,2019,Coffee,HTML5,Yes,5,55,72,40,6,10,Austin,4,1
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,7,86,86,46,3,12,Carlo,9,9
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,8,55,54,50,5,6,Connor,4,1
+Papa's Taco Mia,2011,Tacos,HTML5,No,6,54,97,18,6,9,Nick,2,8
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,9,99,83,45,6,9,Marty,1,2
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,7,72,110,28,6,5,Connor,9,9
+Papa's Pizzeria,2007,Pizza,HTML5,No,4,65,44,18,4,6,Willow,7,6
+Papa's Pastaria,2013,Pasta,HTML5,Yes,5,80,110,49,4,11,Jojo,1,8
+Papa's Pancakeria,2012,Pancakes,Flash,No,9,85,117,28,4,12,James,6,10
+Papa's Bakeria,2016,Pie,Flash,No,5,81,100,20,4,11,Penny,2,2
+Papa's Donuteria,2014,Donuts,Flash,No,10,60,54,32,3,9,Olivia,5,2
+Papa's Pancakeria,2012,Pancakes,HTML5,No,5,93,75,36,4,9,Radlynn,4,10
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,8,68,82,38,5,10,Marty,9,1
+Papa's Bakeria,2016,Pie,Flash,Yes,9,64,44,30,3,11,Willow,4,6
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,6,78,77,18,3,12,Akari,10,1
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,5,60,120,23,5,12,Nevada,8,5
+Papa's Freezeria,2011,Ice Cream,HTML5,No,8,99,94,36,5,5,Rita,2,2
+Papa's Bakeria,2016,Pie,Flash,No,8,72,89,25,5,6,Prudence,1,8
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,8,92,102,40,6,5,Nevada,1,10
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,8,73,43,17,5,6,Akari,3,4
+Papa's Bakeria,2016,Pie,Flash,Yes,3,95,83,52,3,11,Scarlett,4,9
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,10,57,64,49,3,12,Olivia,10,2
+Papa's Sushiria,2016,Sushi,HTML5,Yes,9,62,105,48,5,5,Greg,10,1
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,6,71,95,49,5,10,Prudence,6,10
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,5,76,42,43,3,7,Yuko,7,1
+Papa's Pancakeria,2012,Pancakes,Flash,No,7,53,97,15,3,12,Akari,7,2
+Papa's Mocharia,2019,Coffee,Flash,No,9,62,75,29,4,11,Nick,10,10
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,4,81,113,28,4,12,Jojo,8,9
+Papa's Donuteria,2014,Donuts,Flash,Yes,8,100,61,21,3,9,Scarlett,3,10
+Papa's Donuteria,2014,Donuts,Flash,No,4,72,100,37,3,11,Austin,2,1
+Papa's Burgeria,2010,Burgers,HTML5,Yes,9,73,101,18,5,11,Taylor,6,3
+Papa's Mocharia,2019,Coffee,Flash,Yes,6,80,96,29,6,11,Nick,6,3
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,9,81,110,29,3,11,Olivia,10,8
+Papa's Sushiria,2016,Sushi,HTML5,Yes,10,79,78,22,6,9,Yuko,2,7
+Papa's Freezeria,2011,Ice Cream,Flash,No,5,98,107,18,3,9,Penny,7,2
+Papa's Pancakeria,2012,Pancakes,Flash,No,9,94,111,45,4,11,Carlo,3,7
+Papa's Sushiria,2016,Sushi,HTML5,No,6,94,69,33,4,6,Cooper,7,5
+Papa's Pancakeria,2012,Pancakes,HTML5,No,9,88,113,26,4,6,Akari,7,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,7,92,105,22,3,8,Carlo,3,7
+Papa's Bakeria,2016,Pie,Flash,No,3,83,70,31,6,6,Peggy,4,6
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,10,60,51,50,6,7,Trishna,1,4
+Papa's Burgeria,2010,Burgers,HTML5,Yes,3,83,102,49,3,5,Alberto,5,2
+Papa's Pastaria,2013,Pasta,HTML5,Yes,9,97,73,21,3,12,Jojo,1,8
+Papa's Freezeria,2011,Ice Cream,Flash,No,9,99,92,25,3,5,Cooper,1,6
+Papa's Donuteria,2014,Donuts,HTML5,Yes,10,93,91,38,4,11,Cooper,7,5
+Papa's Burgeria,2010,Burgers,HTML5,No,10,84,101,29,5,5,Yuko,5,4
+Papa's Cheeseria,2015,Grilled Cheese,Flash,No,6,90,75,26,3,5,Nick,9,7
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,5,97,45,41,6,10,Olivia,5,10
+Papa's Pastaria,2013,Pasta,HTML5,No,6,78,77,45,6,10,Scarlett,1,7
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,3,68,80,40,6,6,Taylor,7,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,8,79,51,37,4,6,James,4,7
+Papa's Pastaria,2013,Pasta,Flash,Yes,5,52,87,34,5,5,Rita,7,4
+Papa's Bakeria,2016,Pie,HTML5,Yes,8,61,117,48,6,7,Willow,8,8
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,7,97,46,43,5,8,Austin,2,2
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,5,88,90,50,6,10,Olivia,2,9
+Papa's Mocharia,2019,Coffee,HTML5,Yes,3,89,85,48,6,5,Alberto,8,7
+Papa's Sushiria,2016,Sushi,HTML5,No,6,88,104,44,4,6,Jojo,5,5
+Papa's Burgeria,2010,Burgers,HTML5,No,3,56,117,18,4,12,Jojo,5,10
+Papa's Bakeria,2016,Pie,Flash,No,10,53,40,35,3,11,Joy,7,4
+Papa's Pizzeria,2007,Pizza,Flash,Yes,3,68,86,27,5,6,Connor,5,9
+Papa's Pancakeria,2012,Pancakes,Flash,No,3,62,92,36,5,5,Yuko,7,3
+Papa's Cupcakeria,2013,Cupcakes,HTML5,Yes,4,78,53,33,6,8,Nick,2,6
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,6,66,78,53,3,11,Roy,7,4
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,No,7,57,47,19,6,11,Peggy,1,3
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,5,79,114,35,5,10,Skyler,10,5
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,5,93,85,39,5,10,Trishna,5,6
+Papa's Taco Mia,2011,Tacos,Flash,Yes,4,83,102,51,6,5,Marty,6,7
+Papa's Taco Mia,2011,Tacos,Flash,No,8,93,58,59,3,8,Rita,10,4
+Papa's Pastaria,2013,Pasta,HTML5,No,9,57,80,31,3,10,Hank,10,3
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,9,71,85,40,4,7,Prudence,3,3
+Papa's Paleteria,2023,Ice Pops,HTML5,No,5,66,63,41,5,7,Greg,1,9
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,10,56,113,22,6,9,Marty,5,10
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,3,60,50,33,3,11,Joy,9,9
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,9,50,63,32,6,12,Akari,8,10
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,4,57,110,55,5,11,Xolo,1,9
+Papa's Taco Mia,2011,Tacos,Flash,No,3,57,60,40,6,8,Sasha,10,3
+Papa's Burgeria,2010,Burgers,Flash,Yes,3,97,99,47,4,7,Sasha,9,1
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,9,95,44,50,3,8,Alberto,5,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,10,57,116,42,5,11,Trishna,3,4
+Papa's Paleteria,2023,Ice Pops,Flash,Yes,3,63,117,57,5,11,Connor,8,5
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,10,68,71,39,4,6,Jojo,9,2
+Papa's Freezeria,2011,Ice Cream,HTML5,No,10,84,42,35,4,8,Prudence,2,7
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,5,77,116,31,6,9,Skyler,7,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,5,66,45,41,4,9,Marty,7,7
+Papa's Sushiria,2016,Sushi,Flash,No,4,56,101,47,3,6,Austin,9,2
+Papa's Bakeria,2016,Pie,Flash,Yes,5,57,89,16,5,9,Nevada,10,10
+Papa's Wingeria,2012,Chicken Wings,Flash,No,7,85,40,43,3,11,Austin,4,9
+Papa's Freezeria,2011,Ice Cream,HTML5,No,10,89,73,56,6,11,Radlynn,2,1
+Papa's Taco Mia,2011,Tacos,Flash,No,6,73,118,22,6,5,Austin,8,3
+Papa's Taco Mia,2011,Tacos,Flash,No,8,64,46,37,4,12,Hank,9,7
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,6,52,64,19,3,7,Akari,2,3
+Papa's Pastaria,2013,Pasta,Flash,Yes,6,66,97,28,5,12,Scarlett,7,8
+Papa's Burgeria,2010,Burgers,Flash,Yes,6,89,85,30,5,6,Alberto,2,9
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,5,100,95,16,6,7,Carlo,5,2
+Papa's Bakeria,2016,Pie,Flash,No,6,84,60,48,6,7,Marty,3,10
+Papa's Pancakeria,2012,Pancakes,Flash,No,5,50,81,53,3,10,Marty,7,9
+Papa's Burgeria,2010,Burgers,Flash,Yes,5,93,67,16,3,10,Connor,4,8
+Papa's Pizzeria,2007,Pizza,HTML5,No,4,57,100,16,5,9,Prudence,3,9
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,5,85,43,29,5,11,Penny,4,6
+Papa's Mocharia,2019,Coffee,Flash,No,3,86,65,22,4,9,Scarlett,10,2
+Papa's Bakeria,2016,Pie,HTML5,No,8,51,78,54,3,12,Austin,3,6
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,3,87,40,53,5,12,Austin,7,3
+Papa's Mocharia,2019,Coffee,HTML5,No,10,87,72,36,5,10,Jojo,2,3
+Papa's Sushiria,2016,Sushi,Flash,Yes,5,92,110,44,3,10,Sasha,2,10
+Papa's Taco Mia,2011,Tacos,HTML5,No,8,74,116,38,5,9,Carlo,4,9
+Papa's Paleteria,2023,Ice Pops,HTML5,Yes,5,92,81,42,4,11,Peggy,10,6
+Papa's Taco Mia,2011,Tacos,Flash,Yes,8,50,72,42,6,10,Scarlett,3,8
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,5,54,104,53,4,7,Roy,8,4
+Papa's Burgeria,2010,Burgers,Flash,No,9,74,103,32,3,5,Radlynn,9,6
+Papa's Paleteria,2023,Ice Pops,HTML5,No,9,62,43,50,3,10,Nick,9,5
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,8,100,53,59,3,12,Joy,6,2
+Papa's Taco Mia,2011,Tacos,HTML5,No,5,67,72,26,5,9,Cooper,5,3
+Papa's Sushiria,2016,Sushi,Flash,No,9,56,63,32,5,7,Scarlett,1,4
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,7,59,84,41,5,10,Marty,6,9
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,8,60,54,32,5,12,Joy,4,9
+Papa's Donuteria,2014,Donuts,HTML5,No,5,84,78,45,4,6,Austin,7,3
+Papa's Mocharia,2019,Coffee,Flash,No,6,58,54,45,4,9,Skyler,7,6
+Papa's Pizzeria,2007,Pizza,Flash,No,10,76,91,46,5,7,Marty,8,5
+Papa's Bakeria,2016,Pie,HTML5,Yes,4,52,57,50,5,12,Trishna,5,1
+Papa's Pastaria,2013,Pasta,Flash,No,4,88,53,60,3,6,Marty,6,5
+Papa's Taco Mia,2011,Tacos,Flash,No,7,86,77,26,5,10,Prudence,10,4
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,9,98,57,32,3,5,Willow,6,1
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,8,54,66,44,5,5,Sasha,8,1
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,9,62,49,31,6,7,Carlo,8,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,5,73,42,19,4,8,Taylor,10,9
+Papa's Burgeria,2010,Burgers,HTML5,No,5,85,117,29,4,10,Taylor,7,2
+Papa's Freezeria,2011,Ice Cream,Flash,Yes,9,58,62,23,3,6,Yuko,8,9
+Papa's Cupcakeria,2013,Cupcakes,Flash,No,7,92,90,18,3,8,Penny,2,10
+Papa's Donuteria,2014,Donuts,HTML5,No,8,82,46,15,6,7,Chuck,10,10
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,5,78,101,59,6,10,Scarlett,5,9
+Papa's Pastaria,2013,Pasta,HTML5,Yes,4,65,75,19,3,6,Rita,5,4
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,4,81,92,59,3,6,Alberto,2,6
+Papa's Bakeria,2016,Pie,Flash,Yes,4,71,40,56,6,12,Penny,8,9
+Papa's Pizzeria,2007,Pizza,Flash,Yes,7,90,87,31,5,7,Marty,3,9
+Papa's Taco Mia,2011,Tacos,HTML5,Yes,3,77,105,47,3,6,Austin,9,3
+Papa's Burgeria,2010,Burgers,Flash,Yes,10,75,45,45,5,6,Roy,7,7
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,57,110,35,4,6,Skyler,5,1
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,9,96,107,15,6,10,Rita,8,8
+Papa's Bakeria,2016,Pie,Flash,Yes,3,100,66,43,4,5,Marty,2,6
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,6,91,41,39,5,9,Akari,4,2
+Papa's Taco Mia,2011,Tacos,Flash,Yes,8,98,41,57,3,5,Trishna,5,9
+Papa's Paleteria,2023,Ice Pops,HTML5,No,5,74,47,38,4,12,Connor,7,9
+Papa's Mocharia,2019,Coffee,HTML5,No,3,81,110,38,5,11,Rita,8,7
+Papa's Sushiria,2016,Sushi,HTML5,Yes,6,92,94,16,6,7,Peggy,7,10
+Papa's Mocharia,2019,Coffee,HTML5,No,5,63,100,25,6,10,Cooper,8,1
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,6,74,97,36,4,9,Nevada,4,5
+Papa's Mocharia,2019,Coffee,HTML5,Yes,7,73,72,55,3,8,Roy,10,4
+Papa's Mocharia,2019,Coffee,HTML5,No,6,63,89,49,6,10,Olivia,3,5
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,8,98,52,53,5,7,Greg,5,7
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,No,8,96,100,21,3,10,Skyler,1,3
+Papa's Mocharia,2019,Coffee,Flash,No,8,71,91,57,6,10,Nick,2,2
+Papa's Pastaria,2013,Pasta,HTML5,Yes,5,81,110,44,5,11,Sasha,2,6
+Papa's Mocharia,2019,Coffee,HTML5,No,3,88,88,39,5,6,James,10,7
+Papa's Donuteria,2014,Donuts,Flash,Yes,8,71,72,16,4,9,Olivia,9,2
+Papa's Bakeria,2016,Pie,Flash,Yes,5,75,108,42,3,9,Taylor,1,3
+Papa's Cluckeria,2020,Fried Chicken,Flash,No,7,73,75,59,5,7,Scarlett,8,3
+Papa's Freezeria,2011,Ice Cream,HTML5,No,5,56,111,35,6,8,Roy,7,2
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,9,70,79,57,3,11,Skyler,10,10
+Papa's Bakeria,2016,Pie,HTML5,Yes,5,89,44,55,6,11,Nick,2,5
+Papa's Mocharia,2019,Coffee,Flash,Yes,8,77,64,35,3,11,Scarlett,1,9
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,4,80,51,60,5,8,Trishna,6,10
+Papa's Paleteria,2023,Ice Pops,Flash,No,4,84,48,57,4,10,Skyler,4,4
+Papa's Bakeria,2016,Pie,HTML5,Yes,8,84,59,47,6,10,Nevada,8,7
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,4,86,112,38,4,6,Penny,6,4
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,10,78,103,46,5,6,Yuko,6,7
+Papa's Bakeria,2016,Pie,Flash,No,4,71,76,56,3,5,Roy,10,2
+Papa's Sushiria,2016,Sushi,Flash,No,3,69,119,23,5,10,Chuck,2,9
+Papa's Donuteria,2014,Donuts,Flash,Yes,5,72,86,55,4,6,Nevada,7,3
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,10,50,102,53,3,11,Chuck,8,2
+Papa's Freezeria,2011,Ice Cream,HTML5,Yes,8,58,79,24,4,9,Skyler,3,5
+Papa's Pancakeria,2012,Pancakes,HTML5,No,3,56,48,43,6,11,Rita,2,4
+Papa's Bakeria,2016,Pie,HTML5,Yes,10,67,66,42,3,12,Akari,10,5
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,No,7,59,53,55,6,11,Nevada,6,2
+Papa's Mocharia,2019,Coffee,Flash,Yes,8,95,105,50,5,9,Taylor,8,6
+Papa's Pastaria,2013,Pasta,Flash,Yes,5,88,82,21,6,7,Akari,8,8
+Papa's Burgeria,2010,Burgers,Flash,Yes,3,78,87,27,6,6,Xolo,9,4
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,9,73,86,59,3,8,Xolo,5,9
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,7,67,95,47,3,8,Cooper,5,7
+Papa's Taco Mia,2011,Tacos,Flash,No,4,55,42,42,5,6,Trishna,2,3
+Papa's Hot Doggeria,2012,Hot Dogs,Flash,Yes,10,51,65,17,5,7,Jojo,8,4
+Papa's Taco Mia,2011,Tacos,Flash,No,6,77,69,15,4,5,James,9,10
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,9,99,77,21,3,9,Cooper,7,4
+Papa's Cluckeria,2020,Fried Chicken,HTML5,Yes,8,84,115,59,4,8,Hank,9,10
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,9,58,91,38,6,8,Olivia,10,2
+Papa's Cupcakeria,2013,Cupcakes,Flash,Yes,5,70,104,24,3,8,Rita,6,2
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,4,77,67,59,3,10,Penny,9,6
+Papa's Cluckeria,2020,Fried Chicken,Flash,Yes,6,52,66,33,5,8,Austin,3,1
+Papa's Sushiria,2016,Sushi,HTML5,No,3,93,96,49,5,5,Rita,6,2
+Papa's Wingeria,2012,Chicken Wings,Flash,No,9,84,51,18,6,12,Prudence,3,4
+Papa's Pastaria,2013,Pasta,Flash,No,3,54,40,51,6,9,Radlynn,10,1
+Papa's Sushiria,2016,Sushi,HTML5,Yes,4,82,81,47,5,6,Carlo,4,10
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,5,99,77,17,4,7,Taylor,1,7
+Papa's Bakeria,2016,Pie,HTML5,Yes,8,53,97,44,5,12,Alberto,3,6
+Papa's Sushiria,2016,Sushi,HTML5,No,7,99,111,18,3,12,Cooper,3,2
+Papa's Burgeria,2010,Burgers,HTML5,No,3,53,88,27,5,9,Olivia,2,8
+Papa's Sushiria,2016,Sushi,Flash,No,8,96,103,18,6,10,Cooper,6,9
+Papa's Donuteria,2014,Donuts,HTML5,No,4,100,73,44,5,7,Willow,8,3
+Papa's Burgeria,2010,Burgers,HTML5,Yes,9,90,55,46,4,7,Radlynn,3,6
+Papa's Burgeria,2010,Burgers,HTML5,No,5,55,79,21,4,8,Prudence,8,5
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,9,88,68,42,5,9,Skyler,10,2
+Papa's Sushiria,2016,Sushi,HTML5,No,8,91,48,28,6,12,Alberto,5,10
+Papa's Pancakeria,2012,Pancakes,HTML5,Yes,8,77,47,47,5,9,Scarlett,5,5
+Papa's Wingeria,2012,Chicken Wings,HTML5,No,10,83,101,19,3,12,Greg,3,6
+Papa's Freezeria,2011,Ice Cream,Flash,No,7,74,53,50,3,9,Trishna,10,5
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,No,10,98,94,20,4,12,Jojo,9,1
+Papa's Bakeria,2016,Pie,Flash,No,4,72,82,45,5,6,Roy,8,9
+Papa's Donuteria,2014,Donuts,HTML5,Yes,10,68,80,48,6,8,Yuko,1,8
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,10,66,92,21,6,8,Skyler,6,10
+Papa's Sushiria,2016,Sushi,Flash,Yes,4,75,77,22,3,9,Akari,1,1
+Papa's Sushiria,2016,Sushi,Flash,Yes,8,54,69,36,5,9,Willow,4,7
+Papa's Cheeseria,2015,Grilled Cheese,Flash,Yes,4,58,81,34,4,10,Scarlett,10,1
+Papa's Pancakeria,2012,Pancakes,Flash,Yes,8,81,43,19,6,10,Austin,2,4
+Papa's Wingeria,2012,Chicken Wings,Flash,Yes,5,73,46,20,4,5,Alberto,9,4
+Papa's Taco Mia,2011,Tacos,Flash,Yes,5,65,71,15,5,8,Cooper,10,4
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,10,81,119,19,6,10,Marty,5,2
+Papa's Sushiria,2016,Sushi,HTML5,Yes,7,67,55,25,6,8,Prudence,5,8
+Papa's Pizzeria,2007,Pizza,HTML5,Yes,5,51,62,46,3,9,Nick,3,3
+Papa's Taco Mia,2011,Tacos,Flash,Yes,5,60,44,44,6,9,Skyler,2,3
+Papa's Donuteria,2014,Donuts,HTML5,No,6,85,78,49,5,12,Joy,4,7
+Papa's Donuteria,2014,Donuts,Flash,Yes,5,97,52,17,3,7,Roy,4,6
+Papa's Burgeria,2010,Burgers,HTML5,No,7,93,88,17,4,5,Nevada,7,8
+Papa's Cupcakeria,2013,Cupcakes,HTML5,No,6,80,80,19,5,12,Hank,9,4
+Papa's Mocharia,2019,Coffee,HTML5,No,4,66,53,38,5,10,Austin,2,4
+Papa's Donuteria,2014,Donuts,Flash,Yes,10,93,56,22,6,6,Austin,10,6
+Papa's Cheeseria,2015,Grilled Cheese,HTML5,Yes,3,90,41,48,4,5,Jojo,7,8
+Papa's Mocharia,2019,Coffee,HTML5,Yes,9,61,113,53,6,10,Yuko,9,6
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,9,61,57,46,6,5,Nevada,5,10
+Papa's Mocharia,2019,Coffee,Flash,No,6,85,103,17,4,5,Yuko,1,4
+Papa's Cluckeria,2020,Fried Chicken,HTML5,No,6,77,68,23,6,7,Jojo,8,1
+Papa's Scooperia,2018,Cookies & Ice Cream,Flash,Yes,10,58,94,45,6,6,Akari,4,8
+Papa's Taco Mia,2011,Tacos,Flash,Yes,7,71,74,30,5,7,Prudence,4,5
+Papa's Hot Doggeria,2012,Hot Dogs,HTML5,Yes,10,77,61,49,6,5,Scarlett,8,6
+Papa's Pastaria,2013,Pasta,Flash,Yes,3,97,49,38,5,8,Nevada,3,5
+Papa's Mocharia,2019,Coffee,Flash,Yes,10,97,62,53,6,5,James,9,7
+Papa's Pizzeria,2007,Pizza,Flash,Yes,4,94,68,35,3,5,Marty,1,9
+Papa's Pastaria,2013,Pasta,HTML5,No,8,89,94,36,5,5,Roy,5,4
+Papa's Freezeria,2011,Ice Cream,Flash,No,5,50,69,51,5,11,Peggy,5,4
+Papa's Scooperia,2018,Cookies & Ice Cream,HTML5,Yes,5,61,101,37,6,8,Radlynn,2,9
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,4,89,63,19,3,5,Carlo,3,4
+Papa's Mocharia,2019,Coffee,Flash,Yes,10,72,75,32,5,9,Taylor,9,5
+Papa's Wingeria,2012,Chicken Wings,HTML5,Yes,8,73,105,47,6,8,Joy,3,6
