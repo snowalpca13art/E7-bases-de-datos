@@ -1,0 +1,142 @@
+// especialista
+
+class Juego {
+  String nombre;
+  int anio;
+  String plataforma;
+  String tipoComida;
+  String comensal;
+  
+  // variables de movimiento
+  float xPos, yPos, targetX, targetY;
+  float diametro, targetDiametro;
+
+  Juego(TableRow row) {
+    this.nombre = row.getString("Game_Name");
+    String fechaRaw = row.getString("Release_Year");
+    this.anio = (fechaRaw != null && fechaRaw.length() > 0) ? int(fechaRaw.split("-")[0]) : 0;
+    this.plataforma = row.getString("Platform");
+    this.tipoComida = row.getString("Food_Type"); 
+    this.comensal = row.getString("Customer_Name");
+    
+    // posiciones 
+    this.xPos = width/2;
+    this.yPos = height/2;
+  }
+
+  void actualizar() {
+    // movimiento con lerp
+    xPos = lerp(xPos, targetX, 0.1);
+    yPos = lerp(yPos, targetY, 0.1);
+    diametro = lerp(diametro, targetDiametro, 0.1);
+  }
+
+  void dibujar() {
+    noStroke();
+    // color de la comida
+    fill(map(anio, 2007, 2020, 100, 255), 150, 200, 180); 
+    ellipse(xPos, yPos, diametro, diametro);
+    
+    if (dist(mouseX, mouseY, xPos, yPos) < diametro/2) {
+      fill(255);
+      textSize(12);
+      text(nombre, xPos + 10, yPos);
+    }
+  }
+}
+
+Table tabla;
+ArrayList<Juego> listaJuegos = new ArrayList<Juego>();
+String plataformaUI = "Flash";
+int anioUI = 2013;
+
+void setup() {
+  size(1000, 600);
+  tabla = loadTable("papa_games_dataset.csv", "header");
+  if (tabla != null) {
+    for (TableRow row : tabla.rows()) {
+      listaJuegos.add(new Juego(row));
+    }
+  }
+}
+
+void draw() {
+  background(20, 20, 40);
+  
+  dibujarEscalaEjes();
+  dibujarPanel();
+  
+
+  ArrayList<Juego> filtrados = filtrarDatos();
+  
+  for (Juego j : listaJuegos) {
+    if (filtrados.contains(j)) {
+      //datos en coordenadas
+      //  eje Y es la longitud del nombre, eje x año
+      j.targetX = map(j.anio, 2007, 2016, 300, 950);
+      j.targetY = map(j.nombre.length(), 5, 25, 500, 100);
+      j.targetDiametro = 40;
+    } else {
+      // si no cumple el filtro, se encoge y va al panel lateral
+      j.targetDiametro = 0;
+      j.targetX = 125;
+      j.targetY = height/2;
+    }
+    j.actualizar();
+    j.dibujar();
+  }
+}
+
+void dibujarEscalaEjes() {
+  stroke(100);
+  line(300, 520, 950, 520); // Eje X
+  fill(150);
+  textSize(10);
+  text("Línea de Tiempo (Años)", 600, 550);
+}
+
+ArrayList<Juego> filtrarDatos() {
+  ArrayList<Juego> res = new ArrayList<Juego>();
+  for (Juego j : listaJuegos) {
+    if (j.plataforma.equalsIgnoreCase(plataformaUI) && j.anio <= anioUI) {
+      res.add(j);
+    }
+  }
+  return res;
+}
+
+void dibujarPanel() {
+  noStroke();
+  fill(255, 180, 0);
+  rect(0, 0, 250, height);
+  fill(0);
+  textSize(18);
+  text("VISUALIZADOR", 60, 40);
+  
+  // Botones
+  dibujarBoton("Flash", 80, plataformaUI.equals("Flash"));
+  dibujarBoton("HTML5", 140, plataformaUI.equals("HTML5"));
+  
+  fill(0);
+  text("Hasta el año: " + anioUI, 30, 240);
+  rect(20, 260, 200, 10, 5);
+  fill(255);
+  ellipse(map(anioUI, 2007, 2016, 20, 220), 265, 20, 20);
+}
+
+void dibujarBoton(String t, int y, boolean sel) {
+  fill(sel ? color(0, 150, 255) : 255);
+  rect(20, y, 200, 40, 10);
+  fill(0);
+  text(t, 90, y + 25);
+}
+
+void mousePressed() {
+  if (mouseX > 20 && mouseX < 220) {
+    if (mouseY > 80 && mouseY < 120) plataformaUI = "Flash";
+    if (mouseY > 140 && mouseY < 180) plataformaUI = "HTML5";
+    if (mouseY > 250 && mouseY < 280) {
+       anioUI = int(map(mouseX, 20, 220, 2007, 2016));
+    }
+  }
+}
