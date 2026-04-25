@@ -1,4 +1,4 @@
-//variables
+//varibles
 class Juego {
   String nombre;
   int anio;
@@ -6,182 +6,169 @@ class Juego {
   String tipoComida;
   String comensal;
 
-//clasificacion de columnas de  tabla
+  float xPos, yPos, targetX, targetY;
+  float diametro, targetDiametro;
+
+  // clasifiacion de columnas
   Juego(TableRow row) {
     this.nombre = row.getString("Game_Name");
     String fechaRaw = row.getString("Release_Year");
-    // Manejo de error por si la fecha viene vacía o en formato inesperado
-    if (fechaRaw != null && fechaRaw.length() > 0) {
-      this.anio = int(fechaRaw.split("-")[0]);
+    // Manejo de error por si la fecha viene vacia o en formato inesperado
+    if (fechaRaw!= null && fechaRaw.length()>0) {
+      this.anio= int(fechaRaw.split("-")[0]);
     } else {
-      this.anio = 0; 
+      this.anio=0;
     }
-    
     this.plataforma = row.getString("Platform");
-    this.tipoComida = row.getString("Food_Type"); 
+    this.tipoComida = row.getString("Food_Type");
     this.comensal = row.getString("Customer_Name");
+    this.xPos = width/2;
+    this.yPos = height/2;
+  }
+
+  void actualizar() {
+    xPos = lerp(xPos, targetX, 0.1);
+    yPos = lerp(yPos, targetY, 0.1);
+    diametro = lerp(diametro, targetDiametro, 0.1);
+  }
+
+  // solo dibuja la burbuja
+  void dibujarBurbuja() {
+    // contornear la burbuja
+    if (dist(mouseX, mouseY, xPos, yPos) < diametro/2) {
+      stroke(255);
+      strokeWeight(2.5);
+    } else {
+      noStroke();
+    }
+    fill(map(anio, 2007, 2020, 100, 255), 150, 200, 180);
+    ellipse(xPos, yPos, diametro, diametro);
+  }
+
+  // Dibuja cuadro con informacion, separado para que aparezca encima de las burbujas
+  void dibujarInfo() {
+    if (dist(mouseX, mouseY, xPos, yPos) < diametro/2) {
+      float tx = xPos + 30;
+      float ty = yPos + 10;
+      if (tx + 180 > width) tx = xPos - 195;
+
+      fill(#FF0313);
+      stroke(#4D060B);
+      strokeWeight(1.5);
+      rect(tx, ty, 180, 80, 8);
+
+      noStroke();
+      fill(0);
+      textSize(11);
+      text(nombre, tx + 10, ty + 18);
+      fill(0);
+      text("Año: " + anio, tx + 10, ty + 36);
+      text("Plataforma: " + plataforma, tx + 10, ty + 52);
+      text("Comida: " + tipoComida, tx + 10, ty + 68);
+    }
   }
 }
 
 Table tabla;
 ArrayList<Juego> listaJuegos = new ArrayList<Juego>();
-
-//variables de interfaz 
+// Variables de interfaz
 String plataformaUI = "Flash";
 int anioUI = 2013;
 
-
 void setup() {
   size(1000, 600);
-  
-  //Carga de datos
+  //Carga de de datos
   tabla = loadTable("papa_games_dataset.csv", "header");
-  if (tabla == null) {
-    println("ERROR: No se encontró el archivo CSV. Revisa la carpeta /data");
-    return;
+  if (tabla != null) {
+    for (TableRow row : tabla.rows()) {
+      listaJuegos.add(new Juego(row));
+    }
   }
-
-  for (TableRow row : tabla.rows()) {
-    listaJuegos.add(new Juego(row));
-  }
-
-  
-  //      TEST DE FILTRADO (LOGS DE CONTROL)
-
-  println("REPORTE DEL ARQUITECTO");
-  println("Total de juegos cargados: " + listaJuegos.size());
-
-  // Test 1: Filtrar por Plataforma (Ejemplo: Flash o HTML5)
-  //aqui cambiarias el tipo de plataforma
-  String platTest = "Flash";
-  ArrayList<Juego> testPlataforma = filtrarPorPlataforma(platTest);
-  println("Test Plataforma (" + platTest + "): " + testPlataforma.size() + " encontrados.");
-
-  // Test 2: Filtrar por Año (Ejemplo: 2011)
-  //aqui cambias el año
-  int anioTest = 2013;
-  ArrayList<Juego> testAnio = filtrarPorAnio(anioTest);
-  println("Test Año (" + anioTest + "): " + testAnio.size() + " encontrados.");
-  if(testAnio.size() > 0) {
-     println("   -> Ejemplo: " + testAnio.get(0).nombre);
-  }
-
-  // Test 3: Listado de Categorías de comida
-  //las categorias de comida no cambian, esto es solo para crear una lista de todo los valores comunes
-  StringList comidas = obtenerCategoriasComida();
-  println("Categorías de comida detectadas: " + comidas.size());
-  println("Lista: " + comidas.join(", "));
 }
 
-//interfaz 
+//interfaz
 void draw() {
-  background(30, 30, 50);
-  dibujarPanel();        
-  dibujarResultadosUI();
+  background(20, 20, 40);
+  dibujarEscalaEjes();
+  dibujarPanel();
+
+  ArrayList<Juego> filtrados = filtrarDatos();
+
+  // primer loop: solo burbujas
+  for (Juego j : listaJuegos) {
+    if (filtrados.contains(j)) {
+      j.targetX = map(j.anio, 2007, 2016, 300, 950);
+      j.targetY = map(j.nombre.length(), 5, 25, 500, 100);
+      j.targetDiametro = 40;
+    } else {
+      j.targetDiametro = 0;
+      j.targetX = 125;
+      j.targetY = height/2;
+    }
+    j.actualizar();
+    j.dibujarBurbuja();
+  }
+
+  // segundo loop: tooltips encima de todo
+  for (Juego j : listaJuegos) {
+    j.dibujarInfo();
+  }
+}
+
+void dibujarEscalaEjes() {
+  stroke(100);
+  line(300, 520, 950, 520);
+  fill(150);
+  textSize(20);
+  text("Línea de Tiempo (Años)", 550, 550);
 }
 
 void dibujarPanel() {
+  noStroke();
   fill(255, 180, 0);
   rect(0, 0, 250, height, 20);
-
   fill(0);
+  // titulo
+  fill(255, 180, 0);
+  textSize(30);
+  text("Papa's Games Dataset", 495, 50);
+  
   textSize(18);
-  text("FILTROS", 70, 40);
-  
- // botón Flash
-  fill(plataformaUI.equals("Flash") ? color(0,200,255) : 255);
-  rect(20, 80, 200, 40, 10);
-  fill(0);
-  text("Flash", 90, 105);
+  text("FILTROS", 89, 40);
 
-  //botón HTML5
-  fill(plataformaUI.equals("HTML5") ? color(0,200,255) : 255);
-  rect(20, 140, 200, 40, 10);
-  fill(0);
-  text("HTML5", 85, 165);
+  dibujarBoton("Flash", 80, plataformaUI.equals("Flash"));
+  dibujarBoton("HTML5", 140, plataformaUI.equals("HTML5"));
 
-  // selector de año
   fill(0);
-  text("Año: " + anioUI, 20, 240);
-
+  text("Hasta el año: " + anioUI, 30, 240);
+  rect(20, 260, 200, 10, 5);
   fill(255);
-  rect(20, 260, 200, 35, 10);
+  ellipse(map(anioUI, 2007, 2016, 20, 220), 265, 20, 20);
+}
+
+void dibujarBoton(String t, int y, boolean sel) {
+  fill(sel ? color(0, 150, 255) : 255);
+  rect(20, y, 200, 40, 10);
   fill(0);
-  text("Cambiar Año", 50, 285);
-  
-}
-//visualización de resultados en pantalla
-void dibujarResultadosUI() {
-  ArrayList<Juego> resultado = filtrarPorPlataforma(plataformaUI);
-  resultado = filtrarPorAnio(anioUI);
-
-  fill(255);
-  textSize(16);
-  text("Resultados: " + resultado.size(), 300, 40);
-
-  int y = 80;
-
-  for (int i = 0; i < min(10, resultado.size()); i++) {
-    Juego j = resultado.get(i);
-
-    // tarjeta visual estilo juego
-    fill(255, 100, 100);
-    rect(300, y, 500, 40, 15);
-
-    fill(0);
-    text(j.nombre + " (" + j.anio + ")", 310, y + 25);
-
-    y += 60;
-  }
+  text(t, 90, y + 25);
 }
 
-//interacción con mouse (botones)
-public void mousePressed() {
-  if (mouseX > 20 && mouseX < 220 && mouseY > 80 && mouseY < 120) {
-    plataformaUI = "Flash";
-  }
-
-  if (mouseX > 20 && mouseX < 220 && mouseY > 140 && mouseY < 180) {
-    plataformaUI = "HTML5";
-  }
-
-  if (mouseX > 20 && mouseX < 220 && mouseY > 260 && mouseY < 295) {
-    anioUI++;
-    if (anioUI > 2015) {
-      anioUI = 2010;
+void mousePressed() {
+  if (mouseX > 20 && mouseX < 220) {
+    if (mouseY > 80 && mouseY < 120) plataformaUI = "Flash";
+    if (mouseY > 140 && mouseY < 180) plataformaUI = "HTML5";
+    if (mouseY > 250 && mouseY < 280) {
+      anioUI = int(map(mouseX, 20, 220, 2007, 2016));
     }
   }
 }
 
-
-// FUNCIONES DE FILTRADO
-
-ArrayList<Juego> filtrarPorPlataforma(String plataformaDeseada) {
-  ArrayList<Juego> resultado = new ArrayList<Juego>();
+ArrayList<Juego> filtrarDatos() {
+  ArrayList<Juego> res = new ArrayList<Juego>();
   for (Juego j : listaJuegos) {
-    if (j.plataforma != null && j.plataforma.equalsIgnoreCase(plataformaDeseada)) {
-      resultado.add(j);
+    if (j.plataforma != null && j.plataforma.equalsIgnoreCase(plataformaUI) && j.anio <= anioUI) {
+      res.add(j);
     }
   }
-  return resultado;
-}
-
-ArrayList<Juego> filtrarPorAnio(int anioDeseado) {
-  ArrayList<Juego> resultado = new ArrayList<Juego>();
-  for (Juego j : listaJuegos) {
-    if (j.anio == anioDeseado) {
-      resultado.add(j);
-    }
-  }
-  return resultado;
-}
-
-StringList obtenerCategoriasComida() {
-  StringList categorias = new StringList();
-  for (Juego j : listaJuegos) {
-    if (j.tipoComida != null && !categorias.hasValue(j.tipoComida)) {
-      categorias.append(j.tipoComida);
-    }
-  }
-  return categorias;
+  return res;
 }
